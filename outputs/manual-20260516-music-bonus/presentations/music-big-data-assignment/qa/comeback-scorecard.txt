@@ -1,0 +1,33 @@
+Task mode: create
+Primary deck profile: engineering-platform / analytics assignment
+Profile gate: pass
+
+Package checks:
+- Final PPTX exists and is non-empty.
+- PowerPoint package contains 10 slides.
+- Rendered preview exists for all 10 slides.
+- Contact sheet rendered successfully.
+- No embedded media files are empty.
+
+Rubric:
+- story: 5/5
+- specificity: 5/5
+- rhythm: 4/5
+- whitespace: 4/5
+- chart clarity: 5/5
+- typography: 4/5
+- restraint: 4/5
+- precision: 5/5
+- coherence: 5/5
+
+Total: 41/45
+
+Accepted warnings:
+- Layout checker flags separated axis labels on slide 6 as split inline text. These are intentional chart labels and render cleanly.
+- Some workflow boxes have compact bottom padding. Full-size render review shows text remains legible and contained.
+- Slide 4 explanatory text is compact but readable in rendered output.
+
+Final review:
+- Contact sheet shows a coherent 10-slide assignment deck.
+- Slides cover both Part A analytics and Part B recommendation system.
+- Deck stays within the assignment maximum of 10 slides.

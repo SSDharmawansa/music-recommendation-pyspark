@@ -1,0 +1,2125 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/p07e0t",
+    "id": "p07e0t",
+    "slide": 5,
+    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/q1orytsv",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#F7F3EA",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xs72x4na",
+      "id": "2",
+      "name": "kicker-marker-5",
+      "bbox": [
+        64,
+        45,
+        24,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#D97706",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87ed8bat",
+      "id": "3",
+      "name": "kicker-label-5",
+      "bbox": [
+        98,
+        42,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "PART A EVIDENCE",
+      "textPreview": "PART A EVIDENCE",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PART A EVIDENCE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PART A EVIDENCE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "PART A EVIDENCE",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#5B6472",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/je9cvixc",
+      "id": "4",
+      "bbox": [
+        64,
+        76,
+        760,
+        86
+      ],
+      "geometry": "rect",
+      "text": "Listening activity is highly concentrated around a few artists.",
+      "textPreview": "Listening activity is highly concentrated around a few artists.",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Listening activity is highly concentrated"
+          },
+          {
+            "index": 2,
+            "text": "around a few artists."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Listening activity is highly concentrated around a few artists.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Listening activity is highly concentrated around a few artists.",
+              "fontSize": 36,
+              "typeface": "Aptos Display",
+              "color": "#111827",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qtcj6tov",
+      "id": "5",
+      "bbox": [
+        66,
+        174,
+        680,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+      "textPreview": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1gvy90je",
+      "id": "6",
+      "bbox": [
+        84,
+        262,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Kanye West",
+      "textPreview": "Kanye West",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kanye West"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kanye West",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kanye West",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z25kb6x",
+      "id": "7",
+      "bbox": [
+        234,
+        264,
+        390,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#2563EB",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fa9w3m94",
+      "id": "8",
+      "bbox": [
+        634,
+        261,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "27,267",
+      "textPreview": "27,267",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "27,267"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "27,267",
+          "runs": [
+            {
+              "index": 1,
+              "text": "27,267",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpg3ex0n",
+      "id": "9",
+      "bbox": [
+        84,
+        304,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Dir En Grey",
+      "textPreview": "Dir En Grey",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dir En Grey"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dir En Grey",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dir En Grey",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjudg7ad",
+      "id": "10",
+      "bbox": [
+        234,
+        306,
+        171.72,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#0F766E",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4r65wju",
+      "id": "11",
+      "bbox": [
+        415.72,
+        303,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "12,006",
+      "textPreview": "12,006",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12,006"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12,006",
+          "runs": [
+            {
+              "index": 1,
+              "text": "12,006",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8v6psf",
+      "id": "12",
+      "bbox": [
+        84,
+        346,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Radiohead",
+      "textPreview": "Radiohead",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Radiohead"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Radiohead",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Radiohead",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7y1kre1w",
+      "id": "13",
+      "bbox": [
+        234,
+        348,
+        102.37,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#D97706",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "14",
+      "bbox": [
+        346.37,
+        345,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "7,157",
+      "textPreview": "7,157",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "7,157"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "7,157",
+          "runs": [
+            {
+              "index": 1,
+              "text": "7,157",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "15",
+      "bbox": [
+        84,
+        388,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Nine Inch Nails",
+      "textPreview": "Nine Inch Nails",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Nine Inch Nails"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Nine Inch Nails",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Nine Inch Nails",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/i5sneloj",
+      "id": "16",
+      "bbox": [
+        234,
+        390,
+        95.99,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#BE123C",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qpg3ex0",
+      "id": "17",
+      "bbox": [
+        339.99,
+        387,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "6,711",
+      "textPreview": "6,711",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6,711"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6,711",
+          "runs": [
+            {
+              "index": 1,
+              "text": "6,711",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "18",
+      "bbox": [
+        84,
+        430,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "Muse",
+      "textPreview": "Muse",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Muse"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Muse",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Muse",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "19",
+      "bbox": [
+        234,
+        432,
+        86.56,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#6D28D9",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "20",
+      "bbox": [
+        330.56,
+        429,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "6,052",
+      "textPreview": "6,052",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "6,052"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "6,052",
+          "runs": [
+            {
+              "index": 1,
+              "text": "6,052",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "21",
+      "bbox": [
+        84,
+        472,
+        150,
+        20
+      ],
+      "geometry": "rect",
+      "text": "T.I.",
+      "textPreview": "T.I.",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "T.I."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "T.I.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "T.I.",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "22",
+      "bbox": [
+        234,
+        474,
+        77.15,
+        14
+      ],
+      "geometry": "rect",
+      "fillColor": "#15803D",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "23",
+      "bbox": [
+        321.15,
+        471,
+        90,
+        20
+      ],
+      "geometry": "rect",
+      "text": "5,394",
+      "textPreview": "5,394",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5,394"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5,394",
+          "runs": [
+            {
+              "index": 1,
+              "text": "5,394",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "24",
+      "bbox": [
+        750,
+        260,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "#162033",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "25",
+      "bbox": [
+        758,
+        266,
+        224,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Top track",
+      "textPreview": "Top track",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Top track"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Top track",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Top track",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "26",
+      "bbox": [
+        990,
+        260,
+        150,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "#162033",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "27",
+      "bbox": [
+        998,
+        266,
+        134,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Artist",
+      "textPreview": "Artist",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Artist"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Artist",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Artist",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8bat47y",
+      "id": "28",
+      "bbox": [
+        1140,
+        260,
+        90,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "#162033",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/knih4byh",
+      "id": "29",
+      "bbox": [
+        1148,
+        266,
+        74,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Events",
+      "textPreview": "Events",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Events"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Events",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Events",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yhgn29gr",
+      "id": "30",
+      "bbox": [
+        750,
+        302,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/n29gr2p8",
+      "id": "31",
+      "bbox": [
+        758,
+        308,
+        224,
+        32
+      ],
+      "geometry": "rect",
+      "text": "See You In My Nightmares",
+      "textPreview": "See You In My Nightmares",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "See You In My Nightmares"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "See You In My Nightmares",
+          "runs": [
+            {
+              "index": 1,
+              "text": "See You In My Nightmares",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn29gr2p",
+      "id": "32",
+      "bbox": [
+        990,
+        302,
+        150,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/58z25kb6",
+      "id": "33",
+      "bbox": [
+        998,
+        308,
+        134,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Kanye West",
+      "textPreview": "Kanye West",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kanye West"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kanye West",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kanye West",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y90je9cv",
+      "id": "34",
+      "bbox": [
+        1140,
+        302,
+        90,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 35,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nuxc3ylc",
+      "id": "35",
+      "bbox": [
+        1148,
+        308,
+        74,
+        32
+      ],
+      "geometry": "rect",
+      "text": "2,069",
+      "textPreview": "2,069",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2,069"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2,069",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2,069",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 36,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gbq1oryt",
+      "id": "36",
+      "bbox": [
+        750,
+        344,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 37,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5wjudg7a",
+      "id": "37",
+      "bbox": [
+        758,
+        350,
+        224,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Say You Will",
+      "textPreview": "Say You Will",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Say You Will"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Say You Will",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Say You Will",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 38,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u54zidon",
+      "id": "38",
+      "bbox": [
+        990,
+        344,
+        150,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 39,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nqxs72x4",
+      "id": "39",
+      "bbox": [
+        998,
+        350,
+        134,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Kanye West",
+      "textPreview": "Kanye West",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kanye West"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kanye West",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kanye West",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 40,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7mp0bi9s",
+      "id": "40",
+      "bbox": [
+        1140,
+        344,
+        90,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 41,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e1w7mp0b",
+      "id": "41",
+      "bbox": [
+        1148,
+        350,
+        74,
+        32
+      ],
+      "geometry": "rect",
+      "text": "2,065",
+      "textPreview": "2,065",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2,065"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2,065",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2,065",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 42,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psfil0rq",
+      "id": "42",
+      "bbox": [
+        750,
+        386,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 43,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/w7mp0bi9",
+      "id": "43",
+      "bbox": [
+        758,
+        392,
+        224,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Heartless",
+      "textPreview": "Heartless",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Heartless"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Heartless",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Heartless",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 44,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "44",
+      "bbox": [
+        990,
+        386,
+        150,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 45,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "45",
+      "bbox": [
+        998,
+        392,
+        134,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Kanye West",
+      "textPreview": "Kanye West",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kanye West"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kanye West",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kanye West",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 46,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pg3ex0nu",
+      "id": "46",
+      "bbox": [
+        1140,
+        386,
+        90,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 47,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wval87ed",
+      "id": "47",
+      "bbox": [
+        1148,
+        392,
+        74,
+        32
+      ],
+      "geometry": "rect",
+      "text": "2,063",
+      "textPreview": "2,063",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2,063"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2,063",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2,063",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 48,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "48",
+      "bbox": [
+        750,
+        428,
+        240,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 49,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "49",
+      "bbox": [
+        758,
+        434,
+        224,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Love Lockdown",
+      "textPreview": "Love Lockdown",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Love Lockdown"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Love Lockdown",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Love Lockdown",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 50,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sfil0rqd",
+      "id": "50",
+      "bbox": [
+        990,
+        428,
+        150,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 51,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h0fepkzu",
+      "id": "51",
+      "bbox": [
+        998,
+        434,
+        134,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Kanye West",
+      "textPreview": "Kanye West",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Kanye West"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Kanye West",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Kanye West",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 52,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a9w3m94f",
+      "id": "52",
+      "bbox": [
+        1140,
+        428,
+        90,
+        42
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#D8D0C2",
+      "lineWidth": 1
+    },
+    {
+      "order": 53,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zupwb2hw",
+      "id": "53",
+      "bbox": [
+        1148,
+        434,
+        74,
+        32
+      ],
+      "geometry": "rect",
+      "text": "2,062",
+      "textPreview": "2,062",
+      "resolvedFontSize": 11.51,
+      "resolvedTextStyle": {
+        "fontSize": 11.51,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2,062"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2,062",
+          "runs": [
+            {
+              "index": 1,
+              "text": "2,062",
+              "fontSize": 11.51,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 54,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/orytsvu9",
+      "id": "54",
+      "bbox": [
+        180,
+        552,
+        900,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.66667)",
+      "lineColor": "#D97706",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 55,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcrmhk3q",
+      "id": "55",
+      "bbox": [
+        180,
+        552,
+        5,
+        70
+      ],
+      "geometry": "rect",
+      "fillColor": "#D97706",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 56,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/al87ed8b",
+      "id": "56",
+      "bbox": [
+        198,
+        566,
+        870,
+        44
+      ],
+      "geometry": "rect",
+      "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+      "textPreview": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#111827"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 57,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z61032ls",
+      "id": "57",
+      "bbox": [
+        64,
+        684,
+        760,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+      "textPreview": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#5B6472"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 58,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oza1gvy9",
+      "id": "58",
+      "bbox": [
+        1172,
+        678,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "05",
+      "textPreview": "05",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "05",
+          "runs": [
+            {
+              "index": 1,
+              "text": "05",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#5B6472",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

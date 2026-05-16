@@ -1,0 +1,11 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+  "jupyter.notebookFileRoot": "${workspaceFolder}",
+  "terminal.integrated.env.osx": {
+    "JAVA_HOME": "${workspaceFolder}/.jdk/jdk-17.0.19+10/Contents/Home",
+    "SPARK_LOCAL_IP": "127.0.0.1",
+    "PYSPARK_PIN_THREAD": "false",
+    "MPLCONFIGDIR": "${workspaceFolder}/.matplotlib",
+    "PATH": "${workspaceFolder}/.jdk/jdk-17.0.19+10/Contents/Home/bin:${workspaceFolder}/.venv/bin:${env:PATH}"
+  }
+}

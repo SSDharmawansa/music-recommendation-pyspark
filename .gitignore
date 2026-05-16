@@ -1,0 +1,8 @@
+.venv/
+.jdk/
+.jupyter/
+.ipynb_checkpoints/
+__pycache__/
+.matplotlib/
+spark-temp/
+.DS_Store

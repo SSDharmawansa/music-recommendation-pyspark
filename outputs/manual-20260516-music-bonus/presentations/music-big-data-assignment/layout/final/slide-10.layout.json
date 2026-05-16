@@ -1,0 +1,1239 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/a36quc",
+    "id": "a36quc",
+    "slide": 10,
+    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutName": "Master",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Aptos",
+      "Aptos Display"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "1",
+      "bbox": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "geometry": "rect",
+      "fillColor": "#162033",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "2",
+      "name": "kicker-marker-10",
+      "bbox": [
+        64,
+        45,
+        24,
+        4
+      ],
+      "geometry": "rect",
+      "fillColor": "#D97706",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "3",
+      "name": "kicker-label-10",
+      "bbox": [
+        98,
+        42,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "SUBMISSION PACKAGE",
+      "textPreview": "SUBMISSION PACKAGE",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "SUBMISSION PACKAGE"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "SUBMISSION PACKAGE",
+          "runs": [
+            {
+              "index": 1,
+              "text": "SUBMISSION PACKAGE",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#CBD5E1",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "4",
+      "bbox": [
+        64,
+        76,
+        760,
+        86
+      ],
+      "geometry": "rect",
+      "text": "The final package is ready for submission and viva demonstration.",
+      "textPreview": "The final package is ready for submission and viva demonstration.",
+      "resolvedFontSize": 36,
+      "resolvedTextStyle": {
+        "fontSize": 36,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The final package is ready for submission"
+          },
+          {
+            "index": 2,
+            "text": "and viva demonstration."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The final package is ready for submission and viva demonstration.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The final package is ready for submission and viva demonstration.",
+              "fontSize": 36,
+              "typeface": "Aptos Display",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "5",
+      "bbox": [
+        66,
+        174,
+        680,
+        42
+      ],
+      "geometry": "rect",
+      "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+      "textPreview": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real"
+          },
+          {
+            "index": 2,
+            "text": "music dataset."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+              "fontSize": 15,
+              "typeface": "Aptos",
+              "color": "#CBD5E1"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "6",
+      "bbox": [
+        88,
+        250,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "#243049",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "7",
+      "bbox": [
+        96,
+        256,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Item",
+      "textPreview": "Item",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Item"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Item",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Item",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "8",
+      "bbox": [
+        318,
+        250,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "#243049",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "9",
+      "bbox": [
+        326,
+        256,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "File / evidence",
+      "textPreview": "File / evidence",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "File / evidence"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "File / evidence",
+          "runs": [
+            {
+              "index": 1,
+              "text": "File / evidence",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "10",
+      "bbox": [
+        88,
+        298,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "11",
+      "bbox": [
+        96,
+        304,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Part A notebook",
+      "textPreview": "Part A notebook",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Part A notebook"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Part A notebook",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Part A notebook",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "12",
+      "bbox": [
+        318,
+        298,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61032lsz",
+      "id": "13",
+      "bbox": [
+        326,
+        304,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb",
+      "textPreview": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d4vmtwra",
+      "id": "14",
+      "bbox": [
+        88,
+        346,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.07059)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/oj2t83it",
+      "id": "15",
+      "bbox": [
+        96,
+        352,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Part B notebook",
+      "textPreview": "Part B notebook",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Part B notebook"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Part B notebook",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Part B notebook",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vy90je9c",
+      "id": "16",
+      "bbox": [
+        318,
+        346,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.07059)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "17",
+      "bbox": [
+        326,
+        352,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Music_Recommendation_PySpark.ipynb",
+      "textPreview": "Music_Recommendation_PySpark.ipynb",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Music_Recommendation_PySpark.ipynb"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Music_Recommendation_PySpark.ipynb",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Music_Recommendation_PySpark.ipynb",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d8v6psfi",
+      "id": "18",
+      "bbox": [
+        88,
+        394,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/onyd0z61",
+      "id": "19",
+      "bbox": [
+        96,
+        400,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Dataset link",
+      "textPreview": "Dataset link",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Dataset link"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Dataset link",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Dataset link",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1w7mp",
+      "id": "20",
+      "bbox": [
+        318,
+        394,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dcbulwva",
+      "id": "21",
+      "bbox": [
+        326,
+        400,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Last.fm Dataset - 1K users",
+      "textPreview": "Last.fm Dataset - 1K users",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Last.fm Dataset - 1K users"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Last.fm Dataset - 1K users",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Last.fm Dataset - 1K users",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6psfil0r",
+      "id": "22",
+      "bbox": [
+        88,
+        442,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.07059)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/val87ed8",
+      "id": "23",
+      "bbox": [
+        96,
+        448,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Outputs",
+      "textPreview": "Outputs",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Outputs"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Outputs",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Outputs",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/k3q5o7qp",
+      "id": "24",
+      "bbox": [
+        318,
+        442,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.07059)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/donyd0z6",
+      "id": "25",
+      "bbox": [
+        326,
+        448,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "CSV summaries, segments, metrics, and recommendations",
+      "textPreview": "CSV summaries, segments, metrics, and recommendations",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "CSV summaries, segments, metrics, and recommendations"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "CSV summaries, segments, metrics, and recommendations",
+          "runs": [
+            {
+              "index": 1,
+              "text": "CSV summaries, segments, metrics, and recommendations",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2x4nap4r",
+      "id": "26",
+      "bbox": [
+        88,
+        490,
+        230,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vixczed8",
+      "id": "27",
+      "bbox": [
+        96,
+        496,
+        214,
+        38
+      ],
+      "geometry": "rect",
+      "text": "Guide",
+      "textPreview": "Guide",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Guide"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Guide",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Guide",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 28,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kf6dcbul",
+      "id": "28",
+      "bbox": [
+        318,
+        490,
+        720,
+        48
+      ],
+      "geometry": "rect",
+      "fillColor": "rgba(255, 255, 255, 0.10196)",
+      "lineColor": "#475569",
+      "lineWidth": 1
+    },
+    {
+      "order": 29,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d0z61032",
+      "id": "29",
+      "bbox": [
+        326,
+        496,
+        704,
+        38
+      ],
+      "geometry": "rect",
+      "text": "README.md and BONUS_SUBMISSION_GUIDE.md",
+      "textPreview": "README.md and BONUS_SUBMISSION_GUIDE.md",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "README.md and BONUS_SUBMISSION_GUIDE.md"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "README.md and BONUS_SUBMISSION_GUIDE.md",
+          "runs": [
+            {
+              "index": 1,
+              "text": "README.md and BONUS_SUBMISSION_GUIDE.md",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 30,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ylc7u54",
+      "id": "30",
+      "bbox": [
+        214,
+        564,
+        852,
+        68
+      ],
+      "geometry": "rect",
+      "fillColor": "#243049",
+      "lineColor": "#D97706",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 31,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adsji5sn",
+      "id": "31",
+      "bbox": [
+        214,
+        564,
+        5,
+        68
+      ],
+      "geometry": "rect",
+      "fillColor": "#D97706",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 32,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h4byhgn2",
+      "id": "32",
+      "bbox": [
+        232,
+        578,
+        822,
+        42
+      ],
+      "geometry": "rect",
+      "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+      "textPreview": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+      "resolvedFontSize": 14,
+      "resolvedTextStyle": {
+        "fontSize": 14,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells."
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+              "fontSize": 14,
+              "typeface": "Aptos",
+              "color": "#E5E7EB"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 33,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sji5snel",
+      "id": "33",
+      "bbox": [
+        64,
+        684,
+        760,
+        18
+      ],
+      "geometry": "rect",
+      "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+      "textPreview": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+      "resolvedFontSize": 11,
+      "resolvedTextStyle": {
+        "fontSize": 11,
+        "typeface": "Aptos",
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
+              "fontSize": 11,
+              "typeface": "Aptos",
+              "color": "#CBD5E1"
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 34,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m94fu18",
+      "id": "34",
+      "bbox": [
+        1172,
+        678,
+        44,
+        22
+      ],
+      "geometry": "rect",
+      "text": "10",
+      "textPreview": "10",
+      "resolvedFontSize": 12,
+      "resolvedTextStyle": {
+        "fontSize": 12,
+        "typeface": "Aptos",
+        "bold": true,
+        "alignment": "right"
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "10",
+          "runs": [
+            {
+              "index": 1,
+              "text": "10",
+              "fontSize": 12,
+              "typeface": "Aptos",
+              "color": "#CBD5E1",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

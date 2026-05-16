@@ -1,0 +1,4 @@
+segment,users,avg_total_listens,avg_unique_artists,avg_unique_tracks,avg_active_days,avg_artist_diversity,avg_repeat_rate,avg_night_share,avg_weekend_share,suggested_label
+0,9,56323.44,1540.22,8722.56,890.89,0.0318,0.8273,0.1903,0.2918,Heavy listeners
+1,28,13596.32,712.04,3315.5,407.68,0.0808,0.6861,0.1755,0.2648,Balanced listeners
+2,4,28098.0,2437.25,10955.75,321.25,0.0944,0.559,0.2894,0.417,Music explorers
