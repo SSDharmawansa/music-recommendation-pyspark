@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/wwn6bm",
-    "id": "wwn6bm",
+    "aid": "sl/uuxeni",
+    "id": "uuxeni",
     "slide": 2,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/neloj2t8",
+      "aid": "sh/idonyd0z",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#F7F3EA",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,7 +81,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/czed8v6p",
+      "aid": "sh/t47y1kre",
       "id": "2",
       "name": "kicker-marker-2",
       "bbox": [
@@ -99,7 +99,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5kb6xkf6",
+      "aid": "sh/0je9cvix",
       "id": "3",
       "name": "kicker-label-2",
       "bbox": [
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "ASSIGNMENT FIT",
-      "textPreview": "ASSIGNMENT FIT",
+      "text": "ASSIGNMENT REQUIREMENTS",
+      "textPreview": "ASSIGNMENT REQUIREMENTS",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "ASSIGNMENT FIT"
+            "text": "ASSIGNMENT REQUIREMENTS"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "ASSIGNMENT FIT",
+          "text": "ASSIGNMENT REQUIREMENTS",
           "runs": [
             {
               "index": 1,
-              "text": "ASSIGNMENT FIT",
+              "text": "ASSIGNMENT REQUIREMENTS",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -151,7 +151,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u54zidon",
+      "aid": "sh/b6xkf6dc",
       "id": "4",
       "bbox": [
         64,
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "The project now covers both paths in the marking guide.",
-      "textPreview": "The project now covers both paths in the marking guide.",
+      "text": "Project Scope",
+      "textPreview": "Project Scope",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,26 +170,22 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "The project now covers both paths in the"
-          },
-          {
-            "index": 2,
-            "text": "marking guide."
+            "text": "Project Scope"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The project now covers both paths in the marking guide.",
+          "text": "Project Scope",
           "runs": [
             {
               "index": 1,
-              "text": "The project now covers both paths in the marking guide.",
+              "text": "Project Scope",
               "fontSize": 36,
               "typeface": "Aptos Display",
               "color": "#111827",
@@ -206,7 +202,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nqxs72x4",
+      "aid": "sh/il0rqd4v",
       "id": "5",
       "bbox": [
         66,
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Two notebooks use the same dataset but answer different big data questions.",
-      "textPreview": "Two notebooks use the same dataset but answer different big data questions.",
+      "text": "The submission covers the required music recommendation system and the extra analytics work for bonus marks.",
+      "textPreview": "The submission covers the required music recommendation system and the extra analytics work for bonus marks.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -224,25 +220,29 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 1,
+        "lineCount": 2,
         "lines": [
           {
             "index": 1,
-            "text": "Two notebooks use the same dataset but answer different big data questions."
+            "text": "The submission covers the required music recommendation system and the extra analytics work for"
+          },
+          {
+            "index": 2,
+            "text": "bonus marks."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Two notebooks use the same dataset but answer different big data questions.",
+          "text": "The submission covers the required music recommendation system and the extra analytics work for bonus marks.",
           "runs": [
             {
               "index": 1,
-              "text": "Two notebooks use the same dataset but answer different big data questions.",
+              "text": "The submission covers the required music recommendation system and the extra analytics work for bonus marks.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -255,7 +255,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cbulwval",
+      "aid": "sh/tcj6tova",
       "id": "6",
       "bbox": [
         92,
@@ -265,14 +265,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5sneloj2",
+      "aid": "sh/0rqd4vmt",
       "id": "7",
       "bbox": [
         126,
@@ -323,7 +323,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/y90je9cv",
+      "aid": "sh/bi9s36hc",
       "id": "8",
       "bbox": [
         126,
@@ -374,7 +374,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nuxc3ylc",
+      "aid": "sh/ixczed8v",
       "id": "9",
       "bbox": [
         126,
@@ -414,7 +414,7 @@
               "text": "Spark aggregations, temporal patterns, country analysis, and KMeans listener segmentation.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -427,7 +427,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/36hcrmhk",
+      "aid": "sh/s72x4nap",
       "id": "10",
       "bbox": [
         728,
@@ -437,14 +437,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/eloj2t83",
+      "aid": "sh/lszqtcj6",
       "id": "11",
       "bbox": [
         762,
@@ -495,7 +495,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lc7u54zi",
+      "aid": "sh/a5gbq1or",
       "id": "12",
       "bbox": [
         762,
@@ -546,7 +546,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wra5gbq1",
+      "aid": "sh/3m94fu18",
       "id": "13",
       "bbox": [
         762,
@@ -586,7 +586,7 @@
               "text": "Spark MLlib ALS on implicit feedback, model evaluation, and top-10 song recommendations.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -599,7 +599,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7u54zido",
+      "aid": "sh/sji5snel",
       "id": "14",
       "bbox": [
         596,
@@ -616,7 +616,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ed8bat47",
+      "aid": "sh/h4byhgn2",
       "id": "15",
       "bbox": [
         582,
@@ -667,7 +667,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/l0rqd4vm",
+      "aid": "sh/adsji5sn",
       "id": "16",
       "bbox": [
         226,
@@ -684,7 +684,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wfyxobm5",
+      "aid": "sh/3ylc7u54",
       "id": "17",
       "bbox": [
         226,
@@ -701,7 +701,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7mp0bi9s",
+      "aid": "sh/svu9knih",
       "id": "18",
       "bbox": [
         244,
@@ -710,8 +710,8 @@
         40
       ],
       "geometry": "rect",
-      "text": "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation.",
-      "textPreview": "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation.",
+      "text": "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation.",
+      "textPreview": "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation.",
       "resolvedFontSize": 14,
       "resolvedTextStyle": {
         "fontSize": 14,
@@ -723,18 +723,18 @@
         "lines": [
           {
             "index": 1,
-            "text": "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation."
+            "text": "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation.",
+          "text": "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation.",
           "runs": [
             {
               "index": 1,
-              "text": "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation.",
+              "text": "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation.",
               "fontSize": 14,
               "typeface": "Aptos",
               "color": "#111827"
@@ -750,125 +750,8 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/e1w7mp0b",
+      "aid": "sh/hgn29gr2",
       "id": "19",
-      "bbox": [
-        1050,
-        512,
-        120,
-        90
-      ],
-      "geometry": "rect",
-      "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
-      "lineWidth": 1
-    },
-    {
-      "order": 20,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/qxs72x4n",
-      "id": "20",
-      "bbox": [
-        1066,
-        528,
-        88,
-        32
-      ],
-      "geometry": "rect",
-      "text": "2",
-      "textPreview": "2",
-      "resolvedFontSize": 27,
-      "resolvedTextStyle": {
-        "fontSize": 27,
-        "typeface": "Aptos",
-        "bold": true,
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "2"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "2",
-          "runs": [
-            {
-              "index": 1,
-              "text": "2",
-              "fontSize": 27,
-              "typeface": "Aptos",
-              "color": "#6D28D9",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 21,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/fil0rqd4",
-      "id": "21",
-      "bbox": [
-        1066,
-        564,
-        88,
-        28
-      ],
-      "geometry": "rect",
-      "text": "notebooks",
-      "textPreview": "notebooks",
-      "resolvedFontSize": 12,
-      "resolvedTextStyle": {
-        "fontSize": 12,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "notebooks"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "notebooks",
-          "runs": [
-            {
-              "index": 1,
-              "text": "notebooks",
-              "fontSize": 12,
-              "typeface": "Aptos",
-              "color": "#5B6472"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 22,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/83itgfml",
-      "id": "22",
       "bbox": [
         64,
         684,
@@ -903,7 +786,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -913,11 +796,11 @@
       "lineWidth": 0
     },
     {
-      "order": 23,
+      "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xobm58z2",
-      "id": "23",
+      "aid": "sh/l87ed8ba",
+      "id": "20",
       "bbox": [
         1172,
         678,
@@ -953,7 +836,7 @@
               "text": "02",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]

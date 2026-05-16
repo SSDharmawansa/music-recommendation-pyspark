@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/q4agqg",
-    "id": "q4agqg",
+    "aid": "sl/xszonn",
+    "id": "xszonn",
     "slide": 8,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d0z61032",
+      "aid": "sh/83itgfml",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#F7F3EA",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,7 +81,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/29gr2p8n",
+      "aid": "sh/fil0rqd4",
       "id": "2",
       "name": "kicker-marker-8",
       "bbox": [
@@ -99,7 +99,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vu9knih4",
+      "aid": "sh/qxs72x4n",
       "id": "3",
       "name": "kicker-label-8",
       "bbox": [
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "PART B MODEL",
-      "textPreview": "PART B MODEL",
+      "text": "PART B",
+      "textPreview": "PART B",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "PART B MODEL"
+            "text": "PART B"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "PART B MODEL",
+          "text": "PART B",
           "runs": [
             {
               "index": 1,
-              "text": "PART B MODEL",
+              "text": "PART B",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -151,7 +151,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/knih4byh",
+      "aid": "sh/x0nuxc3y",
       "id": "4",
       "bbox": [
         64,
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "ALS turns listening counts into ranked song recommendations.",
-      "textPreview": "ALS turns listening counts into ranked song recommendations.",
+      "text": "Recommendation Model",
+      "textPreview": "Recommendation Model",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,26 +170,22 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "ALS turns listening counts into ranked song"
-          },
-          {
-            "index": 2,
-            "text": "recommendations."
+            "text": "Recommendation Model"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "ALS turns listening counts into ranked song recommendations.",
+          "text": "Recommendation Model",
           "runs": [
             {
               "index": 1,
-              "text": "ALS turns listening counts into ranked song recommendations.",
+              "text": "Recommendation Model",
               "fontSize": 36,
               "typeface": "Aptos Display",
               "color": "#111827",
@@ -206,7 +202,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8bat47y",
+      "aid": "sh/4fu18jqh",
       "id": "5",
       "bbox": [
         66,
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors.",
-      "textPreview": "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors.",
+      "text": "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song recommendations.",
+      "textPreview": "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song recommendations.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -224,25 +220,29 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 1,
+        "lineCount": 2,
         "lines": [
           {
             "index": 1,
-            "text": "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors."
+            "text": "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song"
+          },
+          {
+            "index": 2,
+            "text": "recommendations."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors.",
+          "text": "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song recommendations.",
           "runs": [
             {
               "index": 1,
-              "text": "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors.",
+              "text": "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song recommendations.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -255,7 +255,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2lszqtcj",
+      "aid": "sh/fu18jqh0",
       "id": "6",
       "bbox": [
         82,
@@ -272,7 +272,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/v6psfil0",
+      "aid": "sh/m94fu18j",
       "id": "7",
       "bbox": [
         100,
@@ -323,7 +323,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kre1w7mp",
+      "aid": "sh/xc3ylc7u",
       "id": "8",
       "bbox": [
         100,
@@ -363,7 +363,7 @@
               "text": "Raw user, artist, track, timestamp rows.",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -376,7 +376,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dcbulwva",
+      "aid": "sh/4r65wjud",
       "id": "9",
       "bbox": [
         352,
@@ -393,7 +393,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lszqtcj6",
+      "aid": "sh/ap4r65wj",
       "id": "10",
       "bbox": [
         370,
@@ -444,7 +444,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/s72x4nap",
+      "aid": "sh/za1gvy90",
       "id": "11",
       "bbox": [
         370,
@@ -484,7 +484,7 @@
               "text": "Group by user and track, then log-scale preference.",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -497,7 +497,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3m94fu18",
+      "aid": "sh/svu9knih",
       "id": "12",
       "bbox": [
         642,
@@ -514,7 +514,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a5gbq1or",
+      "aid": "sh/hgn29gr2",
       "id": "13",
       "bbox": [
         660,
@@ -565,7 +565,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h4byhgn2",
+      "aid": "sh/a1gvy90j",
       "id": "14",
       "bbox": [
         660,
@@ -605,7 +605,7 @@
               "text": "Spark MLlib collaborative filtering with implicitPrefs=True.",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -618,7 +618,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sji5snel",
+      "aid": "sh/zidonyd0",
       "id": "15",
       "bbox": [
         922,
@@ -635,7 +635,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3ylc7u54",
+      "aid": "sh/s36hcrmh",
       "id": "16",
       "bbox": [
         940,
@@ -686,7 +686,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/adsji5sn",
+      "aid": "sh/hoza1gvy",
       "id": "17",
       "bbox": [
         940,
@@ -726,7 +726,7 @@
               "text": "Exclude known songs and rank unseen candidates.",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -739,7 +739,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hgn29gr2",
+      "aid": "sh/a5gbq1or",
       "id": "18",
       "bbox": [
         312,
@@ -748,7 +748,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -756,7 +756,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/svu9knih",
+      "aid": "sh/3m94fu18",
       "id": "19",
       "bbox": [
         602,
@@ -765,7 +765,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -773,7 +773,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4r65wjud",
+      "aid": "sh/vixczed8",
       "id": "20",
       "bbox": [
         882,
@@ -782,7 +782,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -790,7 +790,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xc3ylc7u",
+      "aid": "sh/2x4nap4r",
       "id": "21",
       "bbox": [
         210,
@@ -800,14 +800,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/mlkjm1cf",
+      "aid": "sh/donyd0z6",
       "id": "22",
       "bbox": [
         226,
@@ -858,7 +858,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/f6dcbulw",
+      "aid": "sh/k3q5o7qp",
       "id": "23",
       "bbox": [
         226,
@@ -894,7 +894,7 @@
               "text": "model interactions",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -907,7 +907,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4zidonyd",
+      "aid": "sh/val87ed8",
       "id": "24",
       "bbox": [
         426,
@@ -917,14 +917,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xkf6dcbu",
+      "aid": "sh/6psfil0r",
       "id": "25",
       "bbox": [
         442,
@@ -975,7 +975,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/mtwra5gb",
+      "aid": "sh/dcbulwva",
       "id": "26",
       "bbox": [
         442,
@@ -1011,7 +1011,7 @@
               "text": "RMSE diagnostic",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1024,7 +1024,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fepkzupw",
+      "aid": "sh/kre1w7mp",
       "id": "27",
       "bbox": [
         642,
@@ -1034,14 +1034,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/83itgfml",
+      "aid": "sh/v6psfil0",
       "id": "28",
       "bbox": [
         658,
@@ -1092,7 +1092,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xobm58z2",
+      "aid": "sh/2lszqtcj",
       "id": "29",
       "bbox": [
         658,
@@ -1128,7 +1128,7 @@
               "text": "Precision@10",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1141,7 +1141,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/judg7ads",
+      "aid": "sh/gbq1oryt",
       "id": "30",
       "bbox": [
         858,
@@ -1151,14 +1151,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u9knih4b",
+      "aid": "sh/5wjudg7a",
       "id": "31",
       "bbox": [
         874,
@@ -1209,7 +1209,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1032lszq",
+      "aid": "sh/y90je9cv",
       "id": "32",
       "bbox": [
         874,
@@ -1245,7 +1245,7 @@
               "text": "Hit Rate@10",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1258,7 +1258,7 @@
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/cfa9w3m9",
+      "aid": "sh/nuxc3ylc",
       "id": "33",
       "bbox": [
         64,
@@ -1294,7 +1294,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1307,7 +1307,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/jm1cfa9w",
+      "aid": "sh/gn29gr2p",
       "id": "34",
       "bbox": [
         1172,
@@ -1344,7 +1344,7 @@
               "text": "08",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]

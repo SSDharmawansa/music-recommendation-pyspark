@@ -3,8 +3,8 @@ import { C, bg, footer, kicker, title, vBar, note } from "./common.mjs";
 export async function slide06(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Temporal behavior", 64, 42, false, C.teal);
-  title(slide, ctx, "Listening peaks on weekends and in the evening.", "Spark time features expose when users are most active across the sampled listening history.");
+  kicker(slide, ctx, "Part A", 64, 42, false, C.teal);
+  title(slide, ctx, "Listening Time Analysis", "Timestamp features are used to compare listening activity by day and hour.");
 
   ctx.addText(slide, { text: "Listening events by day", x: 88, y: 236, w: 300, h: 24, fontSize: 18, bold: true, color: C.ink });
   vBar(slide, ctx, [
@@ -28,7 +28,7 @@ export async function slide06(presentation, ctx) {
     { label: "21", value: 54675, color: C.teal },
   ], 696, 300, 410, 190, { gap: 14 });
 
-  note(slide, ctx, "Most active hour in the sample: 18:00 with 61,737 listening events. Sunday is the highest-volume day.", 260, 548, 760, 70, C.teal);
+  note(slide, ctx, "Result: Sunday has the highest listening volume, and 18:00 is the most active hour in the sample.", 260, 548, 760, 70, C.teal);
   footer(slide, ctx, 6);
   return slide;
 }

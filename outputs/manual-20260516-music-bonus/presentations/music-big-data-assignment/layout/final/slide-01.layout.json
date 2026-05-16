@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/tbzx4u",
-    "id": "tbzx4u",
+    "aid": "sl/ms5v2x",
+    "id": "ms5v2x",
     "slide": 1,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fu18jqh0",
+      "aid": "sh/d0z61032",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#162033",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,39 +81,20 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4fu18jqh",
+      "aid": "sh/29gr2p8n",
       "id": "2",
-      "name": "kicker-marker-1",
       "bbox": [
-        64,
-        47,
-        24,
-        4
+        84,
+        72,
+        440,
+        24
       ],
       "geometry": "rect",
-      "fillColor": "#D97706",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 3,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/x0nuxc3y",
-      "id": "3",
-      "name": "kicker-label-1",
-      "bbox": [
-        98,
-        44,
-        360,
-        18
-      ],
-      "geometry": "rect",
-      "text": "MINI PROJECT",
-      "textPreview": "MINI PROJECT",
-      "resolvedFontSize": 11,
+      "text": "Big Data Analytics Mini Project",
+      "textPreview": "Big Data Analytics Mini Project",
+      "resolvedFontSize": 14,
       "resolvedTextStyle": {
-        "fontSize": 11,
+        "fontSize": 14,
         "typeface": "Aptos",
         "bold": true,
         "alignment": "left"
@@ -123,21 +104,76 @@
         "lines": [
           {
             "index": 1,
-            "text": "MINI PROJECT"
+            "text": "Big Data Analytics Mini Project"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "MINI PROJECT",
+          "text": "Big Data Analytics Mini Project",
           "runs": [
             {
               "index": 1,
-              "text": "MINI PROJECT",
-              "fontSize": 11,
+              "text": "Big Data Analytics Mini Project",
+              "fontSize": 14,
               "typeface": "Aptos",
-              "color": "#CBD5E1",
+              "color": "#2563EB",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "fillColor": "rgba(0, 0, 0, 0)",
+      "lineColor": "rgba(0, 0, 0, 0)",
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9knih4",
+      "id": "3",
+      "bbox": [
+        84,
+        150,
+        560,
+        108
+      ],
+      "geometry": "rect",
+      "text": "Music Recommendation System",
+      "textPreview": "Music Recommendation System",
+      "resolvedFontSize": 44,
+      "resolvedTextStyle": {
+        "fontSize": 44,
+        "typeface": "Aptos Display",
+        "bold": true,
+        "alignment": "left"
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Music Recommendation"
+          },
+          {
+            "index": 2,
+            "text": "System"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Music Recommendation System",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Music Recommendation System",
+              "fontSize": 44,
+              "typeface": "Aptos Display",
+              "color": "#111827",
               "bold": true
             }
           ]
@@ -151,49 +187,43 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qxs72x4n",
+      "aid": "sh/knih4byh",
       "id": "4",
       "bbox": [
-        64,
-        110,
-        690,
-        120
+        88,
+        286,
+        540,
+        34
       ],
       "geometry": "rect",
-      "text": "Music Listening Analytics and Recommendation System",
-      "textPreview": "Music Listening Analytics and Recommendation System",
-      "resolvedFontSize": 42,
+      "text": "Using PySpark and the Last.fm 1K listening dataset",
+      "textPreview": "Using PySpark and the Last.fm 1K listening dataset",
+      "resolvedFontSize": 18,
       "resolvedTextStyle": {
-        "fontSize": 42,
-        "typeface": "Aptos Display",
-        "bold": true,
+        "fontSize": 18,
+        "typeface": "Aptos",
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "Music Listening Analytics and"
-          },
-          {
-            "index": 2,
-            "text": "Recommendation System"
+            "text": "Using PySpark and the Last.fm 1K listening dataset"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Music Listening Analytics and Recommendation System",
+          "text": "Using PySpark and the Last.fm 1K listening dataset",
           "runs": [
             {
               "index": 1,
-              "text": "Music Listening Analytics and Recommendation System",
-              "fontSize": 42,
-              "typeface": "Aptos Display",
-              "color": "#FFFFFF",
-              "bold": true
+              "text": "Using PySpark and the Last.fm 1K listening dataset",
+              "fontSize": 18,
+              "typeface": "Aptos",
+              "color": "#4B5563"
             }
           ]
         }
@@ -206,43 +236,60 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fil0rqd4",
+      "aid": "sh/d8bat47y",
       "id": "5",
       "bbox": [
-        68,
-        246,
-        620,
-        42
+        88,
+        384,
+        560,
+        64
       ],
       "geometry": "rect",
-      "text": "Bonus-ready PySpark project using the Last.fm 1K listening-history dataset.",
-      "textPreview": "Bonus-ready PySpark project using the Last.fm 1K listening-history dataset.",
-      "resolvedFontSize": 18,
+      "text": "Part A: Listening analytics and user segmentation\nPart B: ALS collaborative filtering recommendations",
+      "textPreview": "Part A: Listening analytics and user segmentation | Part B: ALS collaborative filtering recommendations",
+      "resolvedFontSize": 16,
       "resolvedTextStyle": {
-        "fontSize": 18,
+        "fontSize": 16,
         "typeface": "Aptos",
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 1,
+        "lineCount": 2,
         "lines": [
           {
             "index": 1,
-            "text": "Bonus-ready PySpark project using the Last.fm 1K listening-history dataset."
+            "text": "Part A: Listening analytics and user segmentation"
+          },
+          {
+            "index": 2,
+            "text": "Part B: ALS collaborative filtering recommendations"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Bonus-ready PySpark project using the Last.fm 1K listening-history dataset.",
+          "text": "Part A: Listening analytics and user segmentation",
           "runs": [
             {
               "index": 1,
-              "text": "Bonus-ready PySpark project using the Last.fm 1K listening-history dataset.",
-              "fontSize": 18,
+              "text": "Part A: Listening analytics and user segmentation",
+              "fontSize": 16,
               "typeface": "Aptos",
-              "color": "#CBD5E1"
+              "color": "#111827"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "Part B: ALS collaborative filtering recommendations",
+          "runs": [
+            {
+              "index": 1,
+              "text": "Part B: ALS collaborative filtering recommendations",
+              "fontSize": 16,
+              "typeface": "Aptos",
+              "color": "#111827"
             }
           ]
         }
@@ -255,16 +302,16 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/83itgfml",
+      "aid": "sh/2lszqtcj",
       "id": "6",
       "bbox": [
-        64,
-        330,
-        700,
-        1.5
+        84,
+        520,
+        180,
+        3
       ],
       "geometry": "rect",
-      "fillColor": "#64748B",
+      "fillColor": "#2563EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -272,60 +319,43 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xobm58z2",
+      "aid": "sh/v6psfil0",
       "id": "7",
       "bbox": [
-        68,
-        360,
-        640,
-        72
+        88,
+        548,
+        420,
+        24
       ],
       "geometry": "rect",
-      "text": "Part A: Spark analytics and listener segmentation\nPart B: ALS collaborative filtering music recommendations",
-      "textPreview": "Part A: Spark analytics and listener segmentation | Part B: ALS collaborative filtering music recommendations",
-      "resolvedFontSize": 18,
+      "text": "Dataset: Last.fm Dataset - 1K users",
+      "textPreview": "Dataset: Last.fm Dataset - 1K users",
+      "resolvedFontSize": 13,
       "resolvedTextStyle": {
-        "fontSize": 18,
+        "fontSize": 13,
         "typeface": "Aptos",
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "Part A: Spark analytics and listener segmentation"
-          },
-          {
-            "index": 2,
-            "text": "Part B: ALS collaborative filtering music recommendations"
+            "text": "Dataset: Last.fm Dataset - 1K users"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Part A: Spark analytics and listener segmentation",
+          "text": "Dataset: Last.fm Dataset - 1K users",
           "runs": [
             {
               "index": 1,
-              "text": "Part A: Spark analytics and listener segmentation",
-              "fontSize": 18,
+              "text": "Dataset: Last.fm Dataset - 1K users",
+              "fontSize": 13,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
-            }
-          ]
-        },
-        {
-          "index": 2,
-          "text": "Part B: ALS collaborative filtering music recommendations",
-          "runs": [
-            {
-              "index": 1,
-              "text": "Part B: ALS collaborative filtering music recommendations",
-              "fontSize": 18,
-              "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#4B5563"
             }
           ]
         }
@@ -338,525 +368,8 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/mtwra5gb",
+      "aid": "sh/kre1w7mp",
       "id": "8",
-      "bbox": [
-        840,
-        124,
-        180,
-        96
-      ],
-      "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#334155",
-      "lineWidth": 1
-    },
-    {
-      "order": 9,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/fepkzupw",
-      "id": "9",
-      "bbox": [
-        856,
-        140,
-        148,
-        32
-      ],
-      "geometry": "rect",
-      "text": "1.0M",
-      "textPreview": "1.0M",
-      "resolvedFontSize": 27,
-      "resolvedTextStyle": {
-        "fontSize": 27,
-        "typeface": "Aptos",
-        "bold": true,
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "1.0M"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "1.0M",
-          "runs": [
-            {
-              "index": 1,
-              "text": "1.0M",
-              "fontSize": 27,
-              "typeface": "Aptos",
-              "color": "#D97706",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 10,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/7adsji5s",
-      "id": "10",
-      "bbox": [
-        856,
-        176,
-        148,
-        28
-      ],
-      "geometry": "rect",
-      "text": "listening events used",
-      "textPreview": "listening events used",
-      "resolvedFontSize": 12,
-      "resolvedTextStyle": {
-        "fontSize": 12,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "listening events used"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "listening events used",
-          "runs": [
-            {
-              "index": 1,
-              "text": "listening events used",
-              "fontSize": 12,
-              "typeface": "Aptos",
-              "color": "#CBD5E1"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 11,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/epkzupwb",
-      "id": "11",
-      "bbox": [
-        1040,
-        124,
-        180,
-        96
-      ],
-      "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#334155",
-      "lineWidth": 1
-    },
-    {
-      "order": 12,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/pg3ex0nu",
-      "id": "12",
-      "bbox": [
-        1056,
-        140,
-        148,
-        32
-      ],
-      "geometry": "rect",
-      "text": "23,007",
-      "textPreview": "23,007",
-      "resolvedFontSize": 27,
-      "resolvedTextStyle": {
-        "fontSize": 27,
-        "typeface": "Aptos",
-        "bold": true,
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "23,007"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "23,007",
-          "runs": [
-            {
-              "index": 1,
-              "text": "23,007",
-              "fontSize": 27,
-              "typeface": "Aptos",
-              "color": "#0F766E",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 13,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/wval87ed",
-      "id": "13",
-      "bbox": [
-        1056,
-        176,
-        148,
-        28
-      ],
-      "geometry": "rect",
-      "text": "unique artists",
-      "textPreview": "unique artists",
-      "resolvedFontSize": 12,
-      "resolvedTextStyle": {
-        "fontSize": 12,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "unique artists"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "unique artists",
-          "runs": [
-            {
-              "index": 1,
-              "text": "unique artists",
-              "fontSize": 12,
-              "typeface": "Aptos",
-              "color": "#CBD5E1"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 14,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/7mp0bi9s",
-      "id": "14",
-      "bbox": [
-        840,
-        242,
-        180,
-        96
-      ],
-      "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#334155",
-      "lineWidth": 1
-    },
-    {
-      "order": 15,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/e1w7mp0b",
-      "id": "15",
-      "bbox": [
-        856,
-        258,
-        148,
-        32
-      ],
-      "geometry": "rect",
-      "text": "159,093",
-      "textPreview": "159,093",
-      "resolvedFontSize": 27,
-      "resolvedTextStyle": {
-        "fontSize": 27,
-        "typeface": "Aptos",
-        "bold": true,
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "159,093"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "159,093",
-          "runs": [
-            {
-              "index": 1,
-              "text": "159,093",
-              "fontSize": 27,
-              "typeface": "Aptos",
-              "color": "#2563EB",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 16,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/psfil0rq",
-      "id": "16",
-      "bbox": [
-        856,
-        294,
-        148,
-        28
-      ],
-      "geometry": "rect",
-      "text": "unique tracks",
-      "textPreview": "unique tracks",
-      "resolvedFontSize": 12,
-      "resolvedTextStyle": {
-        "fontSize": 12,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "unique tracks"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "unique tracks",
-          "runs": [
-            {
-              "index": 1,
-              "text": "unique tracks",
-              "fontSize": 12,
-              "typeface": "Aptos",
-              "color": "#CBD5E1"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 17,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/w7mp0bi9",
-      "id": "17",
-      "bbox": [
-        1040,
-        242,
-        180,
-        96
-      ],
-      "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#334155",
-      "lineWidth": 1
-    },
-    {
-      "order": 18,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/7u54zido",
-      "id": "18",
-      "bbox": [
-        1056,
-        258,
-        148,
-        32
-      ],
-      "geometry": "rect",
-      "text": "2",
-      "textPreview": "2",
-      "resolvedFontSize": 27,
-      "resolvedTextStyle": {
-        "fontSize": 27,
-        "typeface": "Aptos",
-        "bold": true,
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "2"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "2",
-          "runs": [
-            {
-              "index": 1,
-              "text": "2",
-              "fontSize": 27,
-              "typeface": "Aptos",
-              "color": "#BE123C",
-              "bold": true
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 19,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/ed8bat47",
-      "id": "19",
-      "bbox": [
-        1056,
-        294,
-        148,
-        28
-      ],
-      "geometry": "rect",
-      "text": "Spark ML models",
-      "textPreview": "Spark ML models",
-      "resolvedFontSize": 12,
-      "resolvedTextStyle": {
-        "fontSize": 12,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "Spark ML models"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "Spark ML models",
-          "runs": [
-            {
-              "index": 1,
-              "text": "Spark ML models",
-              "fontSize": 12,
-              "typeface": "Aptos",
-              "color": "#CBD5E1"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 20,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/mhk3q5o7",
-      "id": "20",
-      "bbox": [
-        842,
-        382,
-        360,
-        24
-      ],
-      "geometry": "rect",
-      "text": "Dataset source: Last.fm Dataset - 1K users",
-      "textPreview": "Dataset source: Last.fm Dataset - 1K users",
-      "resolvedFontSize": 13,
-      "resolvedTextStyle": {
-        "fontSize": 13,
-        "typeface": "Aptos",
-        "alignment": "left"
-      },
-      "textLayout": {
-        "lineCount": 1,
-        "lines": [
-          {
-            "index": 1,
-            "text": "Dataset source: Last.fm Dataset - 1K users"
-          }
-        ]
-      },
-      "paragraphs": [
-        {
-          "index": 1,
-          "text": "Dataset source: Last.fm Dataset - 1K users",
-          "runs": [
-            {
-              "index": 1,
-              "text": "Dataset source: Last.fm Dataset - 1K users",
-              "fontSize": 13,
-              "typeface": "Aptos",
-              "color": "#CBD5E1"
-            }
-          ]
-        }
-      ],
-      "fillColor": "rgba(0, 0, 0, 0)",
-      "lineColor": "rgba(0, 0, 0, 0)",
-      "lineWidth": 0
-    },
-    {
-      "order": 21,
-      "kind": "shape",
-      "scope": "slide",
-      "aid": "sh/b2hwfyxo",
-      "id": "21",
       "bbox": [
         64,
         684,
@@ -891,7 +404,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#CBD5E1"
+              "color": "#4B5563"
             }
           ]
         }
@@ -901,11 +414,11 @@
       "lineWidth": 0
     },
     {
-      "order": 22,
+      "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/4nap4r65",
-      "id": "22",
+      "aid": "sh/dcbulwva",
+      "id": "9",
       "bbox": [
         1172,
         678,
@@ -941,7 +454,7 @@
               "text": "01",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#CBD5E1",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -950,6 +463,26 @@
       "fillColor": "rgba(0, 0, 0, 0)",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/2p8nqxs7",
+      "id": "10",
+      "bbox": [
+        720,
+        130,
+        410,
+        330
+      ],
+      "alt": "Music recommendation and data analytics illustration",
+      "contentType": "image/png",
+      "asset": {
+        "assetId": "1510bdba-2de0-44d0-a5f4-16ed5c50244c",
+        "contentType": "image/png",
+        "byteLength": 47274
+      }
     }
   ],
   "composeRuns": []

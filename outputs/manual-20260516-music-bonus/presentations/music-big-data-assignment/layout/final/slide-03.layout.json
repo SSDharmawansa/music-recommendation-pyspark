@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/ccewq1",
-    "id": "ccewq1",
+    "aid": "sl/213mwn",
+    "id": "213mwn",
     "slide": 3,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#F7F3EA",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "WORKFLOW",
-      "textPreview": "WORKFLOW",
+      "text": "METHOD",
+      "textPreview": "METHOD",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "WORKFLOW"
+            "text": "METHOD"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "WORKFLOW",
+          "text": "METHOD",
           "runs": [
             {
               "index": 1,
-              "text": "WORKFLOW",
+              "text": "METHOD",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "One Spark pipeline feeds two assignment outcomes.",
-      "textPreview": "One Spark pipeline feeds two assignment outcomes.",
+      "text": "Data Processing Workflow",
+      "textPreview": "Data Processing Workflow",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,26 +170,22 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "One Spark pipeline feeds two assignment"
-          },
-          {
-            "index": 2,
-            "text": "outcomes."
+            "text": "Data Processing Workflow"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "One Spark pipeline feeds two assignment outcomes.",
+          "text": "Data Processing Workflow",
           "runs": [
             {
               "index": 1,
-              "text": "One Spark pipeline feeds two assignment outcomes.",
+              "text": "Data Processing Workflow",
               "fontSize": 36,
               "typeface": "Aptos Display",
               "color": "#111827",
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "The system reads raw Last.fm events, cleans them once, then branches into analytics and recommendation workflows.",
-      "textPreview": "The system reads raw Last.fm events, cleans them once, then branches into analytics and recommendation workflows.",
+      "text": "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation.",
+      "textPreview": "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -224,29 +220,25 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "The system reads raw Last.fm events, cleans them once, then branches into analytics and"
-          },
-          {
-            "index": 2,
-            "text": "recommendation workflows."
+            "text": "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The system reads raw Last.fm events, cleans them once, then branches into analytics and recommendation workflows.",
+          "text": "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation.",
           "runs": [
             {
               "index": 1,
-              "text": "The system reads raw Last.fm events, cleans them once, then branches into analytics and recommendation workflows.",
+              "text": "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -353,8 +345,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Listening TSV plus user profile TSV from downloaded dataset folder.",
-      "textPreview": "Listening TSV plus user profile TSV from downloaded dataset folder.",
+      "text": "Listening history TSV plus user profile TSV from the downloaded dataset folder.",
+      "textPreview": "Listening history TSV plus user profile TSV from the downloaded dataset folder.",
       "resolvedFontSize": 12.51,
       "resolvedTextStyle": {
         "fontSize": 12.51,
@@ -362,29 +354,33 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 3,
         "lines": [
           {
             "index": 1,
-            "text": "Listening TSV plus user profile TSV"
+            "text": "Listening history TSV plus user"
           },
           {
             "index": 2,
-            "text": "from downloaded dataset folder."
+            "text": "profile TSV from the downloaded"
+          },
+          {
+            "index": 3,
+            "text": "dataset folder."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Listening TSV plus user profile TSV from downloaded dataset folder.",
+          "text": "Listening history TSV plus user profile TSV from the downloaded dataset folder.",
           "runs": [
             {
               "index": 1,
-              "text": "Listening TSV plus user profile TSV from downloaded dataset folder.",
+              "text": "Listening history TSV plus user profile TSV from the downloaded dataset folder.",
               "fontSize": 12.51,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -406,7 +402,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -423,7 +419,7 @@
         16
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -560,7 +556,7 @@
               "text": "Schema, timestamp parsing, track key fallback, profile join, and de-duplication.",
               "fontSize": 12.51,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -582,7 +578,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -599,7 +595,7 @@
         16
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -732,7 +728,7 @@
               "text": "Play counts, listening hour, day, diversity, repeat rate, and ALS indexes.",
               "fontSize": 12.51,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -754,7 +750,7 @@
         80
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -771,7 +767,7 @@
         4
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -788,7 +784,7 @@
         46
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -805,7 +801,7 @@
         46
       ],
       "geometry": "rect",
-      "fillColor": "#D8D0C2",
+      "fillColor": "#E5E7EB",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -938,7 +934,7 @@
               "text": "EDA, temporal trends, country analysis, and KMeans user segments.",
               "fontSize": 12.51,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1076,7 +1072,7 @@
               "text": "ALS collaborative filtering and top-10 music recommendations.",
               "fontSize": 12.51,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1125,7 +1121,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1175,7 +1171,7 @@
               "text": "03",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]

@@ -3,8 +3,8 @@ import { C, bg, footer, kicker, title, metric, hBar } from "./common.mjs";
 export async function slide04(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Dataset proof", 64, 42, false, C.blue);
-  title(slide, ctx, "The demo still processes a genuinely large music sample.", "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events.");
+  kicker(slide, ctx, "Dataset", 64, 42, false, C.blue);
+  title(slide, ctx, "Dataset Summary", "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset.");
 
   metric(slide, ctx, "events processed", "1,000,000", 76, 246, 210, 98, C.blue);
   metric(slide, ctx, "active users in sample", "41", 314, 246, 190, 98, C.teal);
@@ -23,7 +23,7 @@ export async function slide04(presentation, ctx) {
   ], 88, 454, 390, 30, { labelW: 150 });
 
   ctx.addText(slide, {
-    text: "Why this matters: the dataset is large enough to demonstrate Spark transformations, joins, aggregations, ML feature preparation, and model training beyond simple descriptive statistics.",
+    text: "This sample is large enough to show Spark loading, cleaning, joins, aggregations, feature preparation, and model training.",
     x: 770,
     y: 438,
     w: 330,

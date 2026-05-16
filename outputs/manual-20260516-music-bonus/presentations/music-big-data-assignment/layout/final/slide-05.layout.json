@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/p07e0t",
-    "id": "p07e0t",
+    "aid": "sl/h8zlug",
+    "id": "h8zlug",
     "slide": 5,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/q1orytsv",
+      "aid": "sh/8v6psfil",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#F7F3EA",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,7 +81,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/xs72x4na",
+      "aid": "sh/fa9w3m94",
       "id": "2",
       "name": "kicker-marker-5",
       "bbox": [
@@ -99,7 +99,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/87ed8bat",
+      "aid": "sh/qpg3ex0n",
       "id": "3",
       "name": "kicker-label-5",
       "bbox": [
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "PART A EVIDENCE",
-      "textPreview": "PART A EVIDENCE",
+      "text": "PART A",
+      "textPreview": "PART A",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "PART A EVIDENCE"
+            "text": "PART A"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "PART A EVIDENCE",
+          "text": "PART A",
           "runs": [
             {
               "index": 1,
-              "text": "PART A EVIDENCE",
+              "text": "PART A",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -151,7 +151,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/je9cvixc",
+      "aid": "sh/x4nap4r6",
       "id": "4",
       "bbox": [
         64,
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "Listening activity is highly concentrated around a few artists.",
-      "textPreview": "Listening activity is highly concentrated around a few artists.",
+      "text": "Big Data Analytics Results",
+      "textPreview": "Big Data Analytics Results",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,26 +170,22 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "Listening activity is highly concentrated"
-          },
-          {
-            "index": 2,
-            "text": "around a few artists."
+            "text": "Big Data Analytics Results"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Listening activity is highly concentrated around a few artists.",
+          "text": "Big Data Analytics Results",
           "runs": [
             {
               "index": 1,
-              "text": "Listening activity is highly concentrated around a few artists.",
+              "text": "Big Data Analytics Results",
               "fontSize": 36,
               "typeface": "Aptos Display",
               "color": "#111827",
@@ -206,7 +202,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qtcj6tov",
+      "aid": "sh/8jqh0fep",
       "id": "5",
       "bbox": [
         66,
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
-      "textPreview": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+      "text": "Spark aggregations are used to find the most listened artists and tracks.",
+      "textPreview": "Spark aggregations are used to find the most listened artists and tracks.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -228,21 +224,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events."
+            "text": "Spark aggregations are used to find the most listened artists and tracks."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+          "text": "Spark aggregations are used to find the most listened artists and tracks.",
           "runs": [
             {
               "index": 1,
-              "text": "Top artist and track counts reveal strong popularity concentration in the sampled listening events.",
+              "text": "Spark aggregations are used to find the most listened artists and tracks.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -255,7 +251,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/1gvy90je",
+      "aid": "sh/fyxobm58",
       "id": "6",
       "bbox": [
         84,
@@ -304,7 +300,7 @@
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/8z25kb6x",
+      "aid": "sh/qd4vmtwr",
       "id": "7",
       "bbox": [
         234,
@@ -321,7 +317,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/fa9w3m94",
+      "aid": "sh/xs72x4na",
       "id": "8",
       "bbox": [
         634,
@@ -357,7 +353,7 @@
               "text": "27,267",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -370,7 +366,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/qpg3ex0n",
+      "aid": "sh/87ed8bat",
       "id": "9",
       "bbox": [
         84,
@@ -419,7 +415,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wjudg7ad",
+      "aid": "sh/ed8v6psf",
       "id": "10",
       "bbox": [
         234,
@@ -436,7 +432,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/p4r65wju",
+      "aid": "sh/7y1kre1w",
       "id": "11",
       "bbox": [
         415.72,
@@ -472,7 +468,7 @@
               "text": "12,006",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -485,7 +481,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ed8v6psf",
+      "aid": "sh/wjudg7ad",
       "id": "12",
       "bbox": [
         84,
@@ -534,7 +530,7 @@
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7y1kre1w",
+      "aid": "sh/p4r65wju",
       "id": "13",
       "bbox": [
         234,
@@ -551,7 +547,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0bi9s36h",
+      "aid": "sh/i5sneloj",
       "id": "14",
       "bbox": [
         346.37,
@@ -587,7 +583,7 @@
               "text": "7,157",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -600,7 +596,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pwb2hwfy",
+      "aid": "sh/7qpg3ex0",
       "id": "15",
       "bbox": [
         84,
@@ -649,7 +645,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i5sneloj",
+      "aid": "sh/0bi9s36h",
       "id": "16",
       "bbox": [
         234,
@@ -666,7 +662,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7qpg3ex0",
+      "aid": "sh/pwb2hwfy",
       "id": "17",
       "bbox": [
         339.99,
@@ -702,7 +698,7 @@
               "text": "6,711",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -715,7 +711,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0z61032l",
+      "aid": "sh/itgfmlkj",
       "id": "18",
       "bbox": [
         84,
@@ -764,7 +760,7 @@
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pkzupwb2",
+      "aid": "sh/7ed8bat4",
       "id": "19",
       "bbox": [
         234,
@@ -781,7 +777,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/donyd0z6",
+      "aid": "sh/jqh0fepk",
       "id": "20",
       "bbox": [
         330.56,
@@ -817,7 +813,7 @@
               "text": "6,052",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -830,7 +826,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/k3q5o7qp",
+      "aid": "sh/q5o7qpg3",
       "id": "21",
       "bbox": [
         84,
@@ -879,7 +875,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vixczed8",
+      "aid": "sh/1w7mp0bi",
       "id": "22",
       "bbox": [
         234,
@@ -896,7 +892,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2x4nap4r",
+      "aid": "sh/8bat47y1",
       "id": "23",
       "bbox": [
         321.15,
@@ -932,7 +928,7 @@
               "text": "5,394",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -945,7 +941,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dcbulwva",
+      "aid": "sh/j2t83itg",
       "id": "24",
       "bbox": [
         750,
@@ -955,14 +951,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#162033",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kre1w7mp",
+      "aid": "sh/qh0fepkz",
       "id": "25",
       "bbox": [
         758,
@@ -1013,7 +1009,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/val87ed8",
+      "aid": "sh/18jqh0fe",
       "id": "26",
       "bbox": [
         990,
@@ -1023,14 +1019,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#162033",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6psfil0r",
+      "aid": "sh/8nqxs72x",
       "id": "27",
       "bbox": [
         998,
@@ -1081,7 +1077,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8bat47y",
+      "aid": "sh/j6tovaho",
       "id": "28",
       "bbox": [
         1140,
@@ -1091,14 +1087,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#162033",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/knih4byh",
+      "aid": "sh/ulwval87",
       "id": "29",
       "bbox": [
         1148,
@@ -1149,7 +1145,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/yhgn29gr",
+      "aid": "sh/4nap4r65",
       "id": "30",
       "bbox": [
         750,
@@ -1159,14 +1155,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/n29gr2p8",
+      "aid": "sh/t83itgfm",
       "id": "31",
       "bbox": [
         758,
@@ -1215,7 +1211,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/gn29gr2p",
+      "aid": "sh/mhk3q5o7",
       "id": "32",
       "bbox": [
         990,
@@ -1225,14 +1221,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/58z25kb6",
+      "aid": "sh/b2hwfyxo",
       "id": "33",
       "bbox": [
         998,
@@ -1281,7 +1277,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/y90je9cv",
+      "aid": "sh/4byhgn29",
       "id": "34",
       "bbox": [
         1140,
@@ -1291,14 +1287,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 35,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nuxc3ylc",
+      "aid": "sh/twra5gbq",
       "id": "35",
       "bbox": [
         1148,
@@ -1347,7 +1343,7 @@
       "order": 36,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/gbq1oryt",
+      "aid": "sh/m58z25kb",
       "id": "36",
       "bbox": [
         750,
@@ -1357,14 +1353,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 37,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/5wjudg7a",
+      "aid": "sh/bq1oryts",
       "id": "37",
       "bbox": [
         758,
@@ -1413,7 +1409,7 @@
       "order": 38,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/u54zidon",
+      "aid": "sh/47y1kre1",
       "id": "38",
       "bbox": [
         990,
@@ -1423,14 +1419,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 39,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/nqxs72x4",
+      "aid": "sh/tsvu9kni",
       "id": "39",
       "bbox": [
         998,
@@ -1479,7 +1475,7 @@
       "order": 40,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7mp0bi9s",
+      "aid": "sh/pg3ex0nu",
       "id": "40",
       "bbox": [
         1140,
@@ -1489,14 +1485,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 41,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/e1w7mp0b",
+      "aid": "sh/wval87ed",
       "id": "41",
       "bbox": [
         1148,
@@ -1545,7 +1541,7 @@
       "order": 42,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/psfil0rq",
+      "aid": "sh/7adsji5s",
       "id": "42",
       "bbox": [
         750,
@@ -1555,14 +1551,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 43,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/w7mp0bi9",
+      "aid": "sh/epkzupwb",
       "id": "43",
       "bbox": [
         758,
@@ -1611,7 +1607,7 @@
       "order": 44,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/7adsji5s",
+      "aid": "sh/psfil0rq",
       "id": "44",
       "bbox": [
         990,
@@ -1621,14 +1617,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 45,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/epkzupwb",
+      "aid": "sh/w7mp0bi9",
       "id": "45",
       "bbox": [
         998,
@@ -1677,7 +1673,7 @@
       "order": 46,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/pg3ex0nu",
+      "aid": "sh/7mp0bi9s",
       "id": "46",
       "bbox": [
         1140,
@@ -1687,14 +1683,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.8)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 47,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/wval87ed",
+      "aid": "sh/e1w7mp0b",
       "id": "47",
       "bbox": [
         1148,
@@ -1743,7 +1739,7 @@
       "order": 48,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/36hcrmhk",
+      "aid": "sh/l0rqd4vm",
       "id": "48",
       "bbox": [
         750,
@@ -1753,14 +1749,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 49,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/eloj2t83",
+      "aid": "sh/wfyxobm5",
       "id": "49",
       "bbox": [
         758,
@@ -1809,7 +1805,7 @@
       "order": 50,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sfil0rqd",
+      "aid": "sh/a9w3m94f",
       "id": "50",
       "bbox": [
         990,
@@ -1819,14 +1815,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 51,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h0fepkzu",
+      "aid": "sh/zupwb2hw",
       "id": "51",
       "bbox": [
         998,
@@ -1875,7 +1871,7 @@
       "order": 52,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/a9w3m94f",
+      "aid": "sh/sfil0rqd",
       "id": "52",
       "bbox": [
         1140,
@@ -1885,14 +1881,14 @@
       ],
       "geometry": "rect",
       "fillColor": "rgba(255, 255, 255, 0.50196)",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 53,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/zupwb2hw",
+      "aid": "sh/h0fepkzu",
       "id": "53",
       "bbox": [
         1148,
@@ -1941,7 +1937,7 @@
       "order": 54,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/orytsvu9",
+      "aid": "sh/al87ed8b",
       "id": "54",
       "bbox": [
         180,
@@ -1958,7 +1954,7 @@
       "order": 55,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/hcrmhk3q",
+      "aid": "sh/z61032ls",
       "id": "55",
       "bbox": [
         180,
@@ -1975,7 +1971,7 @@
       "order": 56,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/al87ed8b",
+      "aid": "sh/orytsvu9",
       "id": "56",
       "bbox": [
         198,
@@ -1984,8 +1980,8 @@
         44
       ],
       "geometry": "rect",
-      "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
-      "textPreview": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+      "text": "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback.",
+      "textPreview": "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback.",
       "resolvedFontSize": 14,
       "resolvedTextStyle": {
         "fontSize": 14,
@@ -1997,18 +1993,18 @@
         "lines": [
           {
             "index": 1,
-            "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B."
+            "text": "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+          "text": "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback.",
           "runs": [
             {
               "index": 1,
-              "text": "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.",
+              "text": "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback.",
               "fontSize": 14,
               "typeface": "Aptos",
               "color": "#111827"
@@ -2024,7 +2020,7 @@
       "order": 57,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/z61032ls",
+      "aid": "sh/hcrmhk3q",
       "id": "57",
       "bbox": [
         64,
@@ -2060,7 +2056,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -2073,7 +2069,7 @@
       "order": 58,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/oza1gvy9",
+      "aid": "sh/6xkf6dcb",
       "id": "58",
       "bbox": [
         1172,
@@ -2110,7 +2106,7 @@
               "text": "05",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]

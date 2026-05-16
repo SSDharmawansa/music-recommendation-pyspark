@@ -3,8 +3,8 @@ import { C, bg, footer, kicker, title, hBar, table, note } from "./common.mjs";
 export async function slide05(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Part A evidence", 64, 42, false, C.amber);
-  title(slide, ctx, "Listening activity is highly concentrated around a few artists.", "Top artist and track counts reveal strong popularity concentration in the sampled listening events.");
+  kicker(slide, ctx, "Part A", 64, 42, false, C.amber);
+  title(slide, ctx, "Big Data Analytics Results", "Spark aggregations are used to find the most listened artists and tracks.");
 
   hBar(slide, ctx, [
     { label: "Kanye West", value: 27267, color: C.blue },
@@ -23,7 +23,7 @@ export async function slide05(presentation, ctx) {
     ["Love Lockdown", "Kanye West", "2,062"],
   ], 750, 260, [240, 150, 90], 42, { fontSize: 11.5 });
 
-  note(slide, ctx, "Interpretation: repeated listens to a compact set of popular tracks helps justify using implicit feedback for the recommender in Part B.", 180, 552, 900, 70, C.amber);
+  note(slide, ctx, "Finding: a small group of artists and tracks receives many repeated listens, so play count is useful as implicit feedback.", 180, 552, 900, 70, C.amber);
   footer(slide, ctx, 5);
   return slide;
 }

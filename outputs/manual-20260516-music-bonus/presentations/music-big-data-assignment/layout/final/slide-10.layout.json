@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/a36quc",
-    "id": "a36quc",
+    "aid": "sl/0icdjw",
+    "id": "0icdjw",
     "slide": 10,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dcbulwva",
+      "aid": "sh/7qpg3ex0",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#162033",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,7 +81,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6psfil0r",
+      "aid": "sh/0bi9s36h",
       "id": "2",
       "name": "kicker-marker-10",
       "bbox": [
@@ -99,7 +99,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/val87ed8",
+      "aid": "sh/pwb2hwfy",
       "id": "3",
       "name": "kicker-label-10",
       "bbox": [
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "SUBMISSION PACKAGE",
-      "textPreview": "SUBMISSION PACKAGE",
+      "text": "SUBMISSION",
+      "textPreview": "SUBMISSION",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "SUBMISSION PACKAGE"
+            "text": "SUBMISSION"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "SUBMISSION PACKAGE",
+          "text": "SUBMISSION",
           "runs": [
             {
               "index": 1,
-              "text": "SUBMISSION PACKAGE",
+              "text": "SUBMISSION",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#CBD5E1",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -151,7 +151,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/k3q5o7qp",
+      "aid": "sh/ed8v6psf",
       "id": "4",
       "bbox": [
         64,
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "The final package is ready for submission and viva demonstration.",
-      "textPreview": "The final package is ready for submission and viva demonstration.",
+      "text": "Files Prepared for Submission",
+      "textPreview": "Files Prepared for Submission",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,29 +170,25 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "The final package is ready for submission"
-          },
-          {
-            "index": 2,
-            "text": "and viva demonstration."
+            "text": "Files Prepared for Submission"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The final package is ready for submission and viva demonstration.",
+          "text": "Files Prepared for Submission",
           "runs": [
             {
               "index": 1,
-              "text": "The final package is ready for submission and viva demonstration.",
+              "text": "Files Prepared for Submission",
               "fontSize": 36,
               "typeface": "Aptos Display",
-              "color": "#FFFFFF",
+              "color": "#111827",
               "bold": true
             }
           ]
@@ -206,7 +202,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/donyd0z6",
+      "aid": "sh/7y1kre1w",
       "id": "5",
       "bbox": [
         66,
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
-      "textPreview": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+      "text": "The project demonstrates big data analytics and a recommendation system using PySpark.",
+      "textPreview": "The project demonstrates big data analytics and a recommendation system using PySpark.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -224,29 +220,25 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real"
-          },
-          {
-            "index": 2,
-            "text": "music dataset."
+            "text": "The project demonstrates big data analytics and a recommendation system using PySpark."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+          "text": "The project demonstrates big data analytics and a recommendation system using PySpark.",
           "runs": [
             {
               "index": 1,
-              "text": "The project demonstrates both analytics and recommendation techniques using PySpark on a real music dataset.",
+              "text": "The project demonstrates big data analytics and a recommendation system using PySpark.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#CBD5E1"
+              "color": "#4B5563"
             }
           ]
         }
@@ -259,7 +251,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2x4nap4r",
+      "aid": "sh/wjudg7ad",
       "id": "6",
       "bbox": [
         88,
@@ -268,15 +260,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#475569",
+      "fillColor": "#162033",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vixczed8",
+      "aid": "sh/p4r65wju",
       "id": "7",
       "bbox": [
         96,
@@ -327,7 +319,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kf6dcbul",
+      "aid": "sh/ih4byhgn",
       "id": "8",
       "bbox": [
         318,
@@ -336,15 +328,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "#243049",
-      "lineColor": "#475569",
+      "fillColor": "#162033",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d0z61032",
+      "aid": "sh/72x4nap4",
       "id": "9",
       "bbox": [
         326,
@@ -395,7 +387,7 @@
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dsji5sne",
+      "aid": "sh/zqtcj6to",
       "id": "10",
       "bbox": [
         88,
@@ -404,15 +396,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/o7qpg3ex",
+      "aid": "sh/65wjudg7",
       "id": "11",
       "bbox": [
         96,
@@ -448,7 +440,7 @@
               "text": "Part A notebook",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -461,7 +453,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vmtwra5g",
+      "aid": "sh/hwfyxobm",
       "id": "12",
       "bbox": [
         318,
@@ -470,15 +462,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/61032lsz",
+      "aid": "sh/obm58z25",
       "id": "13",
       "bbox": [
         326,
@@ -514,7 +506,7 @@
               "text": "Music_Listening_Analytics_Bonus_PartA_PySpark.ipynb",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -527,7 +519,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d4vmtwra",
+      "aid": "sh/zed8v6ps",
       "id": "14",
       "bbox": [
         88,
@@ -536,15 +528,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.07059)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/oj2t83it",
+      "aid": "sh/6xkf6dcb",
       "id": "15",
       "bbox": [
         96,
@@ -580,7 +572,7 @@
               "text": "Part B notebook",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -593,7 +585,7 @@
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vy90je9c",
+      "aid": "sh/hk3q5o7q",
       "id": "16",
       "bbox": [
         318,
@@ -602,15 +594,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.07059)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6dcbulwv",
+      "aid": "sh/oza1gvy9",
       "id": "17",
       "bbox": [
         326,
@@ -646,7 +638,7 @@
               "text": "Music_Recommendation_PySpark.ipynb",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -659,7 +651,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8v6psfi",
+      "aid": "sh/z61032ls",
       "id": "18",
       "bbox": [
         88,
@@ -668,15 +660,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/onyd0z61",
+      "aid": "sh/al87ed8b",
       "id": "19",
       "bbox": [
         96,
@@ -712,7 +704,7 @@
               "text": "Dataset link",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -725,7 +717,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kre1w7mp",
+      "aid": "sh/ih4byhgn",
       "id": "20",
       "bbox": [
         318,
@@ -734,15 +726,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dcbulwva",
+      "aid": "sh/72x4nap4",
       "id": "21",
       "bbox": [
         326,
@@ -778,7 +770,7 @@
               "text": "Last.fm Dataset - 1K users",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -791,7 +783,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6psfil0r",
+      "aid": "sh/0nuxc3yl",
       "id": "22",
       "bbox": [
         88,
@@ -800,15 +792,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.07059)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/val87ed8",
+      "aid": "sh/p8nqxs72",
       "id": "23",
       "bbox": [
         96,
@@ -844,7 +836,7 @@
               "text": "Outputs",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -857,7 +849,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/k3q5o7qp",
+      "aid": "sh/itgfmlkj",
       "id": "24",
       "bbox": [
         318,
@@ -866,15 +858,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.07059)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.50196)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/donyd0z6",
+      "aid": "sh/7ed8bat4",
       "id": "25",
       "bbox": [
         326,
@@ -910,7 +902,7 @@
               "text": "CSV summaries, segments, metrics, and recommendations",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -923,7 +915,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/2x4nap4r",
+      "aid": "sh/0z61032l",
       "id": "26",
       "bbox": [
         88,
@@ -932,15 +924,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vixczed8",
+      "aid": "sh/pkzupwb2",
       "id": "27",
       "bbox": [
         96,
@@ -976,7 +968,7 @@
               "text": "Guide",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -989,7 +981,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/kf6dcbul",
+      "aid": "sh/i5sneloj",
       "id": "28",
       "bbox": [
         318,
@@ -998,15 +990,15 @@
         48
       ],
       "geometry": "rect",
-      "fillColor": "rgba(255, 255, 255, 0.10196)",
-      "lineColor": "#475569",
+      "fillColor": "rgba(255, 255, 255, 0.8)",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d0z61032",
+      "aid": "sh/7qpg3ex0",
       "id": "29",
       "bbox": [
         326,
@@ -1042,7 +1034,7 @@
               "text": "README.md and BONUS_SUBMISSION_GUIDE.md",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -1055,7 +1047,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3ylc7u54",
+      "aid": "sh/xobm58z2",
       "id": "30",
       "bbox": [
         214,
@@ -1064,7 +1056,7 @@
         68
       ],
       "geometry": "rect",
-      "fillColor": "#243049",
+      "fillColor": "rgba(255, 255, 255, 0.66667)",
       "lineColor": "#D97706",
       "lineWidth": 1.2
     },
@@ -1072,7 +1064,7 @@
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/adsji5sn",
+      "aid": "sh/83itgfml",
       "id": "31",
       "bbox": [
         214,
@@ -1089,7 +1081,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/h4byhgn2",
+      "aid": "sh/fil0rqd4",
       "id": "32",
       "bbox": [
         232,
@@ -1098,8 +1090,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
-      "textPreview": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+      "text": "Demo flow: open Jupyter, run Part A analytics and clustering cells, then run Part B ALS training and recommendation output cells.",
+      "textPreview": "Demo flow: open Jupyter, run Part A analytics and clustering cells, then run Part B ALS training and recommendation output cells.",
       "resolvedFontSize": 14,
       "resolvedTextStyle": {
         "fontSize": 14,
@@ -1111,21 +1103,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells."
+            "text": "Demo flow: open Jupyter, run Part A analytics and clustering cells, then run Part B ALS training and recommendation output cells."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+          "text": "Demo flow: open Jupyter, run Part A analytics and clustering cells, then run Part B ALS training and recommendation output cells.",
           "runs": [
             {
               "index": 1,
-              "text": "Demo flow: open Jupyter, run Part A summary and clustering cells, then run Part B ALS training and recommendation output cells.",
+              "text": "Demo flow: open Jupyter, run Part A analytics and clustering cells, then run Part B ALS training and recommendation output cells.",
               "fontSize": 14,
               "typeface": "Aptos",
-              "color": "#E5E7EB"
+              "color": "#111827"
             }
           ]
         }
@@ -1138,7 +1130,7 @@
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sji5snel",
+      "aid": "sh/qxs72x4n",
       "id": "33",
       "bbox": [
         64,
@@ -1174,7 +1166,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#CBD5E1"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1187,7 +1179,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3m94fu18",
+      "aid": "sh/x0nuxc3y",
       "id": "34",
       "bbox": [
         1172,
@@ -1224,7 +1216,7 @@
               "text": "10",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#CBD5E1",
+              "color": "#4B5563",
               "bold": true
             }
           ]

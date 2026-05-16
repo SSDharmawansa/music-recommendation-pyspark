@@ -3,8 +3,8 @@ import { C, bg, footer, kicker, title, table, note } from "./common.mjs";
 export async function slide07(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Spark ML segmentation", 64, 42, false, C.violet);
-  title(slide, ctx, "KMeans separates listeners by volume, diversity, and repeat behavior.", "Part A goes beyond EDA by training a Spark ML clustering model on engineered user behavior features.");
+  kicker(slide, ctx, "Part A", 64, 42, false, C.violet);
+  title(slide, ctx, "User Segmentation With KMeans", "Spark ML groups listeners using volume, diversity, repeat behavior, and time-based features.");
 
   table(slide, ctx, [
     ["Segment", "Users", "Avg listens", "Repeat rate", "Label"],
@@ -21,7 +21,7 @@ export async function slide07(presentation, ctx) {
     ctx.addText(slide, { text: f, x: 872, y, w: 250, h: 20, fontSize: 13, color: C.muted });
   });
 
-  note(slide, ctx, "Interpretation: the segmentation creates a useful Part A analytics outcome and can also improve future personalized recommendation strategies.", 162, 562, 930, 62, C.violet);
+  note(slide, ctx, "Output: the users are grouped into heavy listeners, balanced listeners, and music explorers.", 162, 562, 930, 62, C.violet);
   footer(slide, ctx, 7);
   return slide;
 }

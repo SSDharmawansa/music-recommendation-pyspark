@@ -1,10 +1,10 @@
-import { C, bg, footer, kicker, title, metric, note } from "./common.mjs";
+import { C, bg, footer, kicker, title, note } from "./common.mjs";
 
 export async function slide02(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Assignment fit", 64, 42, false, C.blue);
-  title(slide, ctx, "The project now covers both paths in the marking guide.", "Two notebooks use the same dataset but answer different big data questions.");
+  kicker(slide, ctx, "Assignment requirements", 64, 42, false, C.blue);
+  title(slide, ctx, "Project Scope", "The submission covers the required music recommendation system and the extra analytics work for bonus marks.");
 
   ctx.addShape(slide, { x: 92, y: 245, w: 460, h: 230, fill: C.white, line: ctx.line(C.rule, 1) });
   ctx.addText(slide, { text: "Part A", x: 126, y: 274, w: 120, h: 26, fontSize: 16, bold: true, color: C.blue });
@@ -18,8 +18,7 @@ export async function slide02(presentation, ctx) {
 
   ctx.addShape(slide, { x: 596, y: 335, w: 88, h: 4, fill: C.amber, line: ctx.line("#00000000", 0) });
   ctx.addText(slide, { text: "BONUS", x: 582, y: 302, w: 116, h: 24, fontSize: 13, bold: true, color: C.amber, align: "center" });
-  note(slide, ctx, "Submission package includes two executed notebooks, README, generated CSV outputs, and this 10-slide presentation.", 226, 528, 828, 66, C.teal);
-  metric(slide, ctx, "notebooks", "2", 1050, 512, 120, 90, C.violet);
+  note(slide, ctx, "Submission files: two executed Jupyter notebooks, README, generated CSV outputs, and this presentation.", 226, 528, 828, 66, C.teal);
   footer(slide, ctx, 2);
   return slide;
 }

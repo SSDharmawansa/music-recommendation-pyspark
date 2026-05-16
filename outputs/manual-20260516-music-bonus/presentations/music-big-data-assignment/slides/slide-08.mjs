@@ -9,8 +9,8 @@ function block(slide, ctx, label, sub, x, y, w, color) {
 export async function slide08(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Part B model", 64, 42, false, C.rose);
-  title(slide, ctx, "ALS turns listening counts into ranked song recommendations.", "Play count is treated as implicit preference, then Spark MLlib ALS learns user and track factors.");
+  kicker(slide, ctx, "Part B", 64, 42, false, C.rose);
+  title(slide, ctx, "Recommendation Model", "Spark MLlib ALS uses listening counts as implicit feedback to produce ranked song recommendations.");
 
   block(slide, ctx, "Listening events", "Raw user, artist, track, timestamp rows.", 82, 270, 220, C.blue);
   block(slide, ctx, "Play counts", "Group by user and track, then log-scale preference.", 352, 270, 240, C.teal);

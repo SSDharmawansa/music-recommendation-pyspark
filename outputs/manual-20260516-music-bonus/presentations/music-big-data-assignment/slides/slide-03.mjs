@@ -15,10 +15,10 @@ function arrow(slide, ctx, x, y, w, color) {
 export async function slide03(presentation, ctx) {
   const slide = presentation.slides.add();
   bg(slide, ctx);
-  kicker(slide, ctx, "Workflow", 64, 42, false, C.teal);
-  title(slide, ctx, "One Spark pipeline feeds two assignment outcomes.", "The system reads raw Last.fm events, cleans them once, then branches into analytics and recommendation workflows.");
+  kicker(slide, ctx, "Method", 64, 42, false, C.teal);
+  title(slide, ctx, "Data Processing Workflow", "The same cleaned Last.fm data is used for analytics, clustering, and music recommendation.");
 
-  node(slide, ctx, "Raw Last.fm files", "Listening TSV plus user profile TSV from downloaded dataset folder.", 70, 260, 235, C.blue);
+  node(slide, ctx, "Raw Last.fm files", "Listening history TSV plus user profile TSV from the downloaded dataset folder.", 70, 260, 235, C.blue);
   arrow(slide, ctx, 326, 313, 95, C.rule);
   node(slide, ctx, "PySpark cleaning", "Schema, timestamp parsing, track key fallback, profile join, and de-duplication.", 440, 260, 260, C.teal);
   arrow(slide, ctx, 722, 313, 90, C.rule);

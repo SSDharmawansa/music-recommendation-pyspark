@@ -2,13 +2,13 @@
   "schema": "openai.presentation.layout/v4",
   "unit": "px",
   "slide": {
-    "aid": "sl/by128h",
-    "id": "by128h",
+    "aid": "sl/nunrqm",
+    "id": "nunrqm",
     "slide": 4,
-    "layoutId": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+    "layoutId": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
     "layoutName": "Title Slide",
     "layoutType": "title",
-    "masterLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+    "masterLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
     "masterLayoutName": "Master",
     "frame": {
       "left": 0,
@@ -45,15 +45,15 @@
   "inheritedLayers": [
     {
       "scope": "layout",
-      "id": "babebf22-0d5b-4cb6-a760-c0be87ac0bc3",
+      "id": "0a3504ec-7b14-426d-917a-38c59eddb7a1",
       "name": "Title Slide",
       "type": "title",
-      "parentLayoutId": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "parentLayoutId": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "elements": []
     },
     {
       "scope": "master",
-      "id": "5eb7a9b4-5612-4468-acde-631f7ecbcaf4",
+      "id": "c0e7a50e-c2d8-45fc-8d81-037362fd791d",
       "name": "Master",
       "type": "master",
       "elements": []
@@ -64,7 +64,7 @@
       "order": 1,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0fepkzup",
+      "aid": "sh/7qpg3ex0",
       "id": "1",
       "bbox": [
         0,
@@ -73,7 +73,7 @@
         720
       ],
       "geometry": "rect",
-      "fillColor": "#F7F3EA",
+      "fillColor": "#FFFFFF",
       "lineColor": "rgba(0, 0, 0, 0)",
       "lineWidth": 0
     },
@@ -81,7 +81,7 @@
       "order": 2,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bulwval8",
+      "aid": "sh/0bi9s36h",
       "id": "2",
       "name": "kicker-marker-4",
       "bbox": [
@@ -99,7 +99,7 @@
       "order": 3,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i9s36hcr",
+      "aid": "sh/pwb2hwfy",
       "id": "3",
       "name": "kicker-label-4",
       "bbox": [
@@ -109,8 +109,8 @@
         18
       ],
       "geometry": "rect",
-      "text": "DATASET PROOF",
-      "textPreview": "DATASET PROOF",
+      "text": "DATASET",
+      "textPreview": "DATASET",
       "resolvedFontSize": 11,
       "resolvedTextStyle": {
         "fontSize": 11,
@@ -123,21 +123,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "DATASET PROOF"
+            "text": "DATASET"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "DATASET PROOF",
+          "text": "DATASET",
           "runs": [
             {
               "index": 1,
-              "text": "DATASET PROOF",
+              "text": "DATASET",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]
@@ -151,7 +151,7 @@
       "order": 4,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tovahoza",
+      "aid": "sh/ed8v6psf",
       "id": "4",
       "bbox": [
         64,
@@ -160,8 +160,8 @@
         86
       ],
       "geometry": "rect",
-      "text": "The demo still processes a genuinely large music sample.",
-      "textPreview": "The demo still processes a genuinely large music sample.",
+      "text": "Dataset Summary",
+      "textPreview": "Dataset Summary",
       "resolvedFontSize": 36,
       "resolvedTextStyle": {
         "fontSize": 36,
@@ -170,26 +170,22 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 2,
+        "lineCount": 1,
         "lines": [
           {
             "index": 1,
-            "text": "The demo still processes a genuinely large"
-          },
-          {
-            "index": 2,
-            "text": "music sample."
+            "text": "Dataset Summary"
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The demo still processes a genuinely large music sample.",
+          "text": "Dataset Summary",
           "runs": [
             {
               "index": 1,
-              "text": "The demo still processes a genuinely large music sample.",
+              "text": "Dataset Summary",
               "fontSize": 36,
               "typeface": "Aptos Display",
               "color": "#111827",
@@ -206,7 +202,7 @@
       "order": 5,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/032lszqt",
+      "aid": "sh/7y1kre1w",
       "id": "5",
       "bbox": [
         66,
@@ -215,8 +211,8 @@
         42
       ],
       "geometry": "rect",
-      "text": "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events.",
-      "textPreview": "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events.",
+      "text": "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset.",
+      "textPreview": "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset.",
       "resolvedFontSize": 15,
       "resolvedTextStyle": {
         "fontSize": 15,
@@ -228,21 +224,21 @@
         "lines": [
           {
             "index": 1,
-            "text": "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events."
+            "text": "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events.",
+          "text": "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset.",
           "runs": [
             {
               "index": 1,
-              "text": "The laptop-safe run uses 1,000,000 events; the full Last.fm file contains 19.15M listening events.",
+              "text": "The notebook uses a laptop-safe sample of 1,000,000 listening events from the Last.fm 1K dataset.",
               "fontSize": 15,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -255,7 +251,7 @@
       "order": 6,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bi9s36hc",
+      "aid": "sh/wjudg7ad",
       "id": "6",
       "bbox": [
         76,
@@ -265,14 +261,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 7,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ixczed8v",
+      "aid": "sh/p4r65wju",
       "id": "7",
       "bbox": [
         92,
@@ -323,7 +319,7 @@
       "order": 8,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tcj6tova",
+      "aid": "sh/ih4byhgn",
       "id": "8",
       "bbox": [
         92,
@@ -359,7 +355,7 @@
               "text": "events processed",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -372,7 +368,7 @@
       "order": 9,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0rqd4vmt",
+      "aid": "sh/72x4nap4",
       "id": "9",
       "bbox": [
         314,
@@ -382,14 +378,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 10,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/i9s36hcr",
+      "aid": "sh/zqtcj6to",
       "id": "10",
       "bbox": [
         330,
@@ -440,7 +436,7 @@
       "order": 11,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bulwval8",
+      "aid": "sh/65wjudg7",
       "id": "11",
       "bbox": [
         330,
@@ -476,7 +472,7 @@
               "text": "active users in sample",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -489,7 +485,7 @@
       "order": 12,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/0fepkzup",
+      "aid": "sh/hwfyxobm",
       "id": "12",
       "bbox": [
         532,
@@ -499,14 +495,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 13,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/p0bi9s36",
+      "aid": "sh/obm58z25",
       "id": "13",
       "bbox": [
         548,
@@ -557,7 +553,7 @@
       "order": 14,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ixczed8v",
+      "aid": "sh/zed8v6ps",
       "id": "14",
       "bbox": [
         548,
@@ -593,7 +589,7 @@
               "text": "unique artists",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -606,7 +602,7 @@
       "order": 15,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/bi9s36hc",
+      "aid": "sh/6xkf6dcb",
       "id": "15",
       "bbox": [
         750,
@@ -616,14 +612,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 16,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/032lszqt",
+      "aid": "sh/hk3q5o7q",
       "id": "16",
       "bbox": [
         766,
@@ -674,7 +670,7 @@
       "order": 17,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/tovahoza",
+      "aid": "sh/oza1gvy9",
       "id": "17",
       "bbox": [
         766,
@@ -710,7 +706,7 @@
               "text": "unique tracks",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -723,7 +719,7 @@
       "order": 18,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/il0rqd4v",
+      "aid": "sh/z61032ls",
       "id": "18",
       "bbox": [
         984,
@@ -733,14 +729,14 @@
       ],
       "geometry": "rect",
       "fillColor": "#FFFFFF",
-      "lineColor": "#D8D0C2",
+      "lineColor": "#E5E7EB",
       "lineWidth": 1
     },
     {
       "order": 19,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/b6xkf6dc",
+      "aid": "sh/al87ed8b",
       "id": "19",
       "bbox": [
         1000,
@@ -791,7 +787,7 @@
       "order": 20,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/32lszqtc",
+      "aid": "sh/ih4byhgn",
       "id": "20",
       "bbox": [
         1000,
@@ -827,7 +823,7 @@
               "text": "profile countries",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -840,7 +836,7 @@
       "order": 21,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ahoza1gv",
+      "aid": "sh/72x4nap4",
       "id": "21",
       "bbox": [
         88,
@@ -891,7 +887,7 @@
       "order": 22,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/l87ed8ba",
+      "aid": "sh/0nuxc3yl",
       "id": "22",
       "bbox": [
         88,
@@ -940,7 +936,7 @@
       "order": 23,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/sneloj2t",
+      "aid": "sh/p8nqxs72",
       "id": "23",
       "bbox": [
         238,
@@ -957,7 +953,7 @@
       "order": 24,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3ex0nuxc",
+      "aid": "sh/itgfmlkj",
       "id": "24",
       "bbox": [
         638,
@@ -993,7 +989,7 @@
               "text": "228",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1006,7 +1002,7 @@
       "order": 25,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/at47y1kr",
+      "aid": "sh/7ed8bat4",
       "id": "25",
       "bbox": [
         88,
@@ -1055,7 +1051,7 @@
       "order": 26,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/lkjm1cfa",
+      "aid": "sh/0z61032l",
       "id": "26",
       "bbox": [
         238,
@@ -1072,7 +1068,7 @@
       "order": 27,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/szqtcj6t",
+      "aid": "sh/pkzupwb2",
       "id": "27",
       "bbox": [
         463.53,
@@ -1108,7 +1104,7 @@
               "text": "126",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1121,7 +1117,7 @@
       "order": 28,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/3itgfmlk",
+      "aid": "sh/i5sneloj",
       "id": "28",
       "bbox": [
         88,
@@ -1170,7 +1166,7 @@
       "order": 29,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ex0nuxc3",
+      "aid": "sh/7qpg3ex0",
       "id": "29",
       "bbox": [
         238,
@@ -1187,7 +1183,7 @@
       "order": 30,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/ovahoza1",
+      "aid": "sh/xobm58z2",
       "id": "30",
       "bbox": [
         333.53,
@@ -1223,7 +1219,7 @@
               "text": "50",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1236,7 +1232,7 @@
       "order": 31,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/dg7adsji",
+      "aid": "sh/83itgfml",
       "id": "31",
       "bbox": [
         88,
@@ -1285,7 +1281,7 @@
       "order": 32,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6tovahoz",
+      "aid": "sh/fil0rqd4",
       "id": "32",
       "bbox": [
         238,
@@ -1302,7 +1298,7 @@
       "order": 33,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/vahoza1g",
+      "aid": "sh/qxs72x4n",
       "id": "33",
       "bbox": [
         309.58,
@@ -1338,7 +1334,7 @@
               "text": "36",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1351,7 +1347,7 @@
       "order": 34,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/onyd0z61",
+      "aid": "sh/x0nuxc3y",
       "id": "34",
       "bbox": [
         88,
@@ -1400,7 +1396,7 @@
       "order": 35,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d8v6psfi",
+      "aid": "sh/4fu18jqh",
       "id": "35",
       "bbox": [
         238,
@@ -1417,7 +1413,7 @@
       "order": 36,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/6hcrmhk3",
+      "aid": "sh/fu18jqh0",
       "id": "36",
       "bbox": [
         307.87,
@@ -1453,7 +1449,7 @@
               "text": "35",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1466,7 +1462,7 @@
       "order": 37,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/z25kb6xk",
+      "aid": "sh/m94fu18j",
       "id": "37",
       "bbox": [
         88,
@@ -1515,7 +1511,7 @@
       "order": 38,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/oj2t83it",
+      "aid": "sh/xc3ylc7u",
       "id": "38",
       "bbox": [
         238,
@@ -1532,7 +1528,7 @@
       "order": 39,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/d4vmtwra",
+      "aid": "sh/4r65wjud",
       "id": "39",
       "bbox": [
         302.74,
@@ -1568,7 +1564,7 @@
               "text": "32",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1581,7 +1577,7 @@
       "order": 40,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/9s36hcrm",
+      "aid": "sh/cvixczed",
       "id": "40",
       "bbox": [
         770,
@@ -1590,8 +1586,8 @@
         98
       ],
       "geometry": "rect",
-      "text": "Why this matters: the dataset is large enough to demonstrate Spark transformations, joins, aggregations, ML feature preparation, and model training beyond simple descriptive statistics.",
-      "textPreview": "Why this matters: the dataset is large enough to demonstrate Spark transformations, joins, aggregations, ML feature preparation, and mode...",
+      "text": "This sample is large enough to show Spark loading, cleaning, joins, aggregations, feature preparation, and model training.",
+      "textPreview": "This sample is large enough to show Spark loading, cleaning, joins, aggregations, feature preparation, and model training.",
       "resolvedFontSize": 18,
       "resolvedTextStyle": {
         "fontSize": 18,
@@ -1599,38 +1595,34 @@
         "alignment": "left"
       },
       "textLayout": {
-        "lineCount": 5,
+        "lineCount": 4,
         "lines": [
           {
             "index": 1,
-            "text": "Why this matters: the dataset is large"
+            "text": "This sample is large enough to show"
           },
           {
             "index": 2,
-            "text": "enough to demonstrate Spark"
+            "text": "Spark loading, cleaning, joins,"
           },
           {
             "index": 3,
-            "text": "transformations, joins, aggregations, ML"
+            "text": "aggregations, feature preparation, and"
           },
           {
             "index": 4,
-            "text": "feature preparation, and model training"
-          },
-          {
-            "index": 5,
-            "text": "beyond simple descriptive statistics."
+            "text": "model training."
           }
         ]
       },
       "paragraphs": [
         {
           "index": 1,
-          "text": "Why this matters: the dataset is large enough to demonstrate Spark transformations, joins, aggregations, ML feature preparation, and model training beyond simple descriptive statistics.",
+          "text": "This sample is large enough to show Spark loading, cleaning, joins, aggregations, feature preparation, and model training.",
           "runs": [
             {
               "index": 1,
-              "text": "Why this matters: the dataset is large enough to demonstrate Spark transformations, joins, aggregations, ML feature preparation, and model training beyond simple descriptive statistics.",
+              "text": "This sample is large enough to show Spark loading, cleaning, joins, aggregations, feature preparation, and model training.",
               "fontSize": 18,
               "typeface": "Aptos",
               "color": "#111827"
@@ -1646,7 +1638,7 @@
       "order": 41,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/g7adsji5",
+      "aid": "sh/5gbq1ory",
       "id": "41",
       "bbox": [
         748,
@@ -1663,7 +1655,7 @@
       "order": 42,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/rmhk3q5o",
+      "aid": "sh/upwb2hwf",
       "id": "42",
       "bbox": [
         64,
@@ -1699,7 +1691,7 @@
               "text": "Big Data Analytics Mini Project | Last.fm 1K | PySpark",
               "fontSize": 11,
               "typeface": "Aptos",
-              "color": "#5B6472"
+              "color": "#4B5563"
             }
           ]
         }
@@ -1712,7 +1704,7 @@
       "order": 43,
       "kind": "shape",
       "scope": "slide",
-      "aid": "sh/y1kre1w7",
+      "aid": "sh/nap4r65w",
       "id": "43",
       "bbox": [
         1172,
@@ -1749,7 +1741,7 @@
               "text": "04",
               "fontSize": 12,
               "typeface": "Aptos",
-              "color": "#5B6472",
+              "color": "#4B5563",
               "bold": true
             }
           ]

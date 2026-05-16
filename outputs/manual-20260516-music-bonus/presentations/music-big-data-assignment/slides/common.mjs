@@ -1,8 +1,8 @@
 export const C = {
-  bg: "#F7F3EA",
+  bg: "#FFFFFF",
   ink: "#111827",
-  muted: "#5B6472",
-  rule: "#D8D0C2",
+  muted: "#4B5563",
+  rule: "#E5E7EB",
   blue: "#2563EB",
   teal: "#0F766E",
   amber: "#D97706",
